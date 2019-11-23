@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html style="background-color: #fff">
+<head>
+  <meta charset="utf-8">
+  <meta content="width=1300" name="viewport">
+  <meta content="width=1300" name="mobileOptimized">
+  <title>Hide My Ass! Panic Button Options</title>
+  <link media="all" rel="stylesheet" href="css/all.css">
+  <link media="all" rel="stylesheet" href="css/options.css">
+  <script src="js/sha1.js"></script>
+  <script src="js/options.js"></script>
+</head>
+<body style="display: none">
+  <div id="wrapper">
+    <div class="container-holder">
+      <main role="main">
+        <section class="form-section">
+          <h1>panic button <span data-i18n="optTitle">options</span></h1>
+          <form action="#" class="panic-form">
+            <fieldset>
+              <div class="row">
+                <div class="col">
+                  <h2 data-i18n="optShortcutTitle">Keyboard shortcut</h2>
+                  <p data-i18n="optShortcutDescr">Custom shortcut for Panic Button activation (http:// and https:// only)</p>
+                  <div class="select-option">
+                    <select id="shortcut">
+                      <option value="true" data-i18n="optYes">YES</option>
+                      <option value="false" data-i18n="optNo">NO</option>
+                    </select>
+                    <div class="combo-keys">
+                      <select id="shortcut1">
+                        <option value="-1" data-i18n="optNone">NONE</option>
+                        <option value="17" data-i18n="optKeyCTRL">CTRL</option>
+                        <option value="18" data-i18n="optKeyALT">ALT</option>
+                        <option value="16" data-i18n="optKeySHIFT">SHIFT</option>
+                      </select>
+                      <select id="shortcut2" class="combo2">
+                        <option value="27" data-i18n="optKeyESC">ESC</option>
+                        <option value="115">F4</option>
+                        <option value="123">F12</option>
+                        <option value="9" data-i18n="optKeyTAB">Tab</option>
+                      </select>
+                      <div class="plus-block">
+                        +
+                      </div>
+                    </div>
+                  </div>
+                  <div class="block">
+                    <div class="title-block">
+                      <h2 data-i18n="optToolbarVisibilityTitle">Toolbar visibility</h2>
+                      <p data-i18n="optHideIconDescr">Hide Panic Button toolbar icon after activation</p>
+                    </div>
+                    <select id="hideIcon">
+                      <option value="false" data-i18n="optNo">NO</option>
+                      <option value="true" data-i18n="optYes">YES</option>
+                    </select>
+                  </div>
+                </div>
+                <div class="col">
+                  <h2 data-i18n="optPwdProtectTitle">password protection</h2>
+                  <p data-i18n="optPwdProtectDescr">Set a password to protect your stored tabs</p>
+                  <div class="signin-block">
+                    <select id="pwdProtect">
+                      <option value="true" data-i18n="optYes">YES</option>
+                      <option value="false" data-i18n="optNo">NO</option>
+                    </select>
+                    <div class="signin-holder">
+                      <input id="pwd" type="password" placeholder="Enter password" data-i18n="optEnterPassword">
+                      <input type="button" value="Save" data-i18n="optSave">
+                    </div>
+                  </div>
+                  <div class="checkbox-holder">
+                    <input type="checkbox" id="advancedProtection">
+                    <label for="advancedProtection" data-i18n="optAdvancedProtection">Advanced Protection</label>
+                  </div>
+                </div>
+              </div>
+              <div id="safe_pages_cnt" class="row">
+                <h2 data-i18n="optSafePageTitle">Set a Safe Page</h2>
+                <p data-i18n="optSafePageDescr">Set a page to appear after Panic Button activation</p>
+                <div class="entities-holder">
+                  <div class="input-holder">
+                    <input type="text" placeholder="Add Safe Page" data-i18n="optSafePageAddDescr" disabled>
+                    <span class="btn">add</span>
+                  </div>
+                </div>
+              </div>
+              <div class="btn-holder">
+                <input id="reset_cta" type="reset" value="Reset Options" data-i18n="optReset">
+              </div>
+            </fieldset>
+          </form>
+        </section>
+      </main>
+      <footer id="footer">
+        <div class="logo">
+          <a href="https://www.hidemyass.com/?utm_source=panicbutton_extension&utm_medium=link&utm_campaign=panicbutton" target="_blank">
+            <img src="images/ico-donkey.svg" alt="HIDEMYASS" width="88" height="100">
+            <img src="images/text-hidemyass.png" alt="hidemyass" width="130" height="33">
+          </a>
+        </div>
+        <p>&copy; Copyright 2015 <a href="https://www.hidemyass.com/legal/privacy?utm_source=panicbutton_extension&utm_medium=link&utm_campaign=panicbutton" target="_blank">Privacy</a> <a href="https://www.hidemyass.com/legal/website-terms?utm_source=panicbutton_extension&utm_medium=link&utm_campaign=panicbutton" target="_blank">Terms and Conditions</a></p>
+      </footer>
+    </div>
+
+    <div id="advanced_pwd_protection_layer" style="display: none">
+      <div class="box">
+        <div class="title">Advanced Password Protection Setup</div>
+        <br>
+        <div id="advanced_pwd_dropzone" data-drops="0" data-id="advancedProtection" data-i18n="optAPPDropzoneText">drop bookmark here</div>
+        <br>
+        <center>
+          <button data-cta="cancel" data-i18n="optCancel">cancel</button>
+          <button data-cta="save" data-i18n="optSave" style="display: none">save</button>
+          <button data-cta="continue" data-i18n="optContinue" style="display: none">continue</button>
+        </center>
+        <br>
+        <div class="manual"></div>
+        <br>
+        <br>
+        <div class="warning" data-i18n="optAPPSetupWarning">It is important that you remember which bookmark you chose and that its URL does not change or otherwise you will not be able to change your password while advanced protection is activated.</div>
+      </div>
+    </div>
+  </div>
+
+  <script src="js/jquery-2.1.4.min.js"></script>
+  <script src="js/jquery.main.js"></script>
+</body>
+</html>

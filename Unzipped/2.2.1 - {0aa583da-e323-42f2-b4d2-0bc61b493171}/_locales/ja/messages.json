@@ -1,0 +1,11 @@
+{
+  "extName":{
+    "message":"オックスフォード辞書による検索"
+  },
+  "contextMenu":{
+    "message":"オックスフォード辞書による検索"
+  },
+  "description":{
+    "message":"テキストを選択し、右クリックしてOxford Dictionaryで検索します。"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "extName":{
+    "message":"Oxford Dictionary 의 검색"
+  },
+  "contextMenu":{
+    "message":"Oxford Dictionary 의 검색"
+  },
+  "description":{
+    "message":"웹 페이지 텍스트를 선택하고 마우스 오른쪽 버튼을 클릭하여 Oxford 사전을 검색하십시오."
+  }
+}

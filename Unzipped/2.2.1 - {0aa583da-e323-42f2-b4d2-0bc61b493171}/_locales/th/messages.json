@@ -1,0 +1,11 @@
+{
+  "extName":{
+    "message":"พจนานุกรมค้นหาใน Oxford Dictionary"
+  },
+  "contextMenu":{
+    "message":"พจนานุกรมค้นหาใน Oxford Dictionary"
+  },
+  "description":{
+    "message":"เลือกข้อความบนหน้าเว็บคลิกขวาเพื่อค้นหาพจนานุกรม Oxford"
+  }
+}

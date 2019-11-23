@@ -1,0 +1,173 @@
+{
+  "defTitle":{
+    "message":"PanicButton"
+  },
+  "extDescr":{
+    "message":"Esconda todas as suas abas com apenas um simples botão e as restaure mais tarde."
+  },
+  "extName":{
+    "message":"PanicButton"
+  },
+  "folderName":{
+    "message":"temporary Panic"
+  },
+  "optTopDescr1":{
+    "message":"PanicButton is an easy way to hide all of your tabs at once with a single click. It saves open tabs as bookmarks in a separate folder, after which it turns green and shows you the number of hidden tabs."
+  },
+  "optTopDescr2":{
+    "message":"Another click on the PanicButton restores all of the tabs you have hidden earlier. Tip - create keyboard shortcuts, password protect your saved tabs, and set safe pages!"
+  },
+  "optAdBestVPNService":{
+    "message":"best VPN service in the world"
+  },
+  "optAdMonthAcronym":{
+    "message":"m"
+  },
+  "optAdVPNServers":{
+    "message":"VPN servers"
+  },
+  "optAdLocationsIn":{
+    "message":"locations in"
+  },
+  "optAdCountries":{
+    "message":"countries"
+  },
+  "optAdIPAddresses":{
+    "message":"IP addresses"
+  },
+  "optAdUnlimitedUsage":{
+    "message":"Unlimited bandwidth usage"
+  },
+  "optAdUseOnMultipleDevices":{
+    "message":"Use on multiple devices"
+  },
+  "optAdDedicatedCustomerSupport":{
+    "message":"24\/7 dedicated customer support"
+  },
+  "optAdTryNow":{
+    "message":"Try it now"
+  },
+  "optAdMoneyBackDay":{
+    "message":"day"
+  },
+  "optAdMoneyBackGuarantee":{
+    "message":"Money Back Guaratee"
+  },
+  "optAPPDialogueTitle":{
+    "message":"Senha de Proteção Mestra"
+  },
+  "optAPPDropzoneText":{
+    "message":"Selecione um Marcador"
+  },
+  "optAPPManual":{
+    "message":"Pegue seu Marcador escolhido acima e click 'Continue' para salvar sua mudanças."
+  },
+  "optAPPSetupDialogueTitle":{
+    "message":"Opções da Senha de Proteção Mestra"
+  },
+  "optAPPSetupManual":{
+    "message":"Escokha um dos seus marcadores do Chrome, ponha-o na area acima e clique 'salvar'."
+  },
+  "optAPPSetupWarning":{
+    "message":"É importante você lembrar que o marcador que você escolheu e sua URL não mudam ou a senha-mestra de proteção é ativada"
+  },
+  "optAdvancedProtection":{
+    "message":"Proteção avançada"
+  },
+  "optCancel":{
+    "message":"cancelar"
+  },
+  "optContinue":{
+    "message":"continuar"
+  },
+  "optCopyright":{
+    "message":"Copyright 2012 - Part of the HideMyAss.com extension family."
+  },
+  "optToolbarVisibilityTitle":{
+    "message":"Toolbar visibility"
+  },
+  "optHideIconDescr":{
+    "message":"ocultar ícone do PanicButton da barra de ferramentas depois de ativado"
+  },
+  "optKeyALT":{
+    "message":"ALT"
+  },
+  "optKeyCTRL":{
+    "message":"CTRL"
+  },
+  "optKeyESC":{
+    "message":"ESC"
+  },
+  "optKeySHIFT":{
+    "message":"SHIFT"
+  },
+  "optKeyTAB":{
+    "message":"TAB"
+  },
+  "optNo":{
+    "message":"não"
+  },
+  "optNone":{
+    "message":"nenhum"
+  },
+  "optPwdProtectDescr":{
+    "message":"selecione uma senha para proteger suas abas escondidas"
+  },
+  "optPwdProtectTitle":{
+    "message":"Proteção de senha?"
+  },
+  "optEnterPassword":{
+    "message":"Enter password"
+  },
+  "optReset":{
+    "message":"resetar opções"
+  },
+  "optSafePageAddDescr":{
+    "message":"adicionar paging segura"
+  },
+  "optSafePageDescr":{
+    "message":"selecione a página que aparece após clicar no PanicButton"
+  },
+  "optSafePageOptBlank":{
+    "message":"Página em branco"
+  },
+  "optSafePageOptCustom":{
+    "message":"Página personalizada"
+  },
+  "optSafePageOptNewtab":{
+    "message":"'Nova tab' página"
+  },
+  "optSafePageTitle":{
+    "message":"Selecione uma página segura:"
+  },
+  "optSafePageWarningNoPage":{
+    "message":"nenhuma pagina segura seleccionada: a janela irá fechar"
+  },
+  "optSave":{
+    "message":"salvar"
+  },
+  "optShortcutDescr":{
+    "message":"ativar PanicButton usando um atalho para teclado (somente http:\/\/ e https:\/\/)"
+  },
+  "optShortcutTitle":{
+    "message":"Atalho de teclado?"
+  },
+  "optTitle":{
+    "message":"Opções"
+  },
+  "optTitleTag":{
+    "message":"Opções do PanicButton"
+  },
+  "optTwitterFollow":{
+    "message":"follow developer on twitter"
+  },
+  "optYes":{
+    "message":"sim"
+  },
+  "popSubmit":{
+    "message":"OK"
+  },
+  "popTitle":{
+    "message":"Senha:"
+  }
+}

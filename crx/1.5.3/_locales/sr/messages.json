@@ -1,0 +1,173 @@
+{
+  "defTitle":{
+    "message":"PanicButton"
+  },
+  "extDescr":{
+    "message":"Сакриј све отворене табове једним кликом и касније их поново отвори."
+  },
+  "extName":{
+    "message":"PanicButton"
+  },
+  "folderName":{
+    "message":"привремена паника"
+  },
+  "optTopDescr1":{
+    "message":"PanicButton је лак и једноставан начин да сакријете све табове једним кликом. Сви отворени табови су сачувани у Листи омиљених сајтова у посебном фолдеру након чега дугме добија зелену боју и приказује број сакривених табова."
+  },
+  "optTopDescr2":{
+    "message":"Другим кликом на PanicButton, сви претходно сакривени табови се поново отварају. Савет - креирај пречицу на тастатури, сачуване табове заштити шифром и постави сигурне странице!"
+  },
+  "optAdBestVPNService":{
+    "message":"најбољи VPN сервис на свету"
+  },
+  "optAdMonthAcronym":{
+    "message":"м"
+  },
+  "optAdVPNServers":{
+    "message":"VPN сервери"
+  },
+  "optAdLocationsIn":{
+    "message":"локације у"
+  },
+  "optAdCountries":{
+    "message":"земље"
+  },
+  "optAdIPAddresses":{
+    "message":"IP адреса"
+  },
+  "optAdUnlimitedUsage":{
+    "message":"Неограничено коришћење протока"
+  },
+  "optAdUseOnMultipleDevices":{
+    "message":"Могућност коришћења на више уређаја"
+  },
+  "optAdDedicatedCustomerSupport":{
+    "message":"Корисничка подршка расположива 24\/7"
+  },
+  "optAdTryNow":{
+    "message":"Пробај одмах"
+  },
+  "optAdMoneyBackDay":{
+    "message":"дана"
+  },
+  "optAdMoneyBackGuarantee":{
+    "message":"Загарантован повраћај новца"
+  },
+  "optAPPDialogueTitle":{
+    "message":"Напредна заштита лозинке"
+  },
+  "optAPPDropzoneText":{
+    "message":"Отпусти обележивач овде"
+  },
+  "optAPPManual":{
+    "message":"Превуци одабрани обележивач у поље изнад и кликни 'настави' да сачуваш промене."
+  },
+  "optAPPSetupDialogueTitle":{
+    "message":"Напредна подешавања за заштиту лозинке"
+  },
+  "optAPPSetupManual":{
+    "message":"Одаберите један од ваших Chrome обележивача, превуците у поље изнад и кликните 'сачувај'."
+  },
+  "optAPPSetupWarning":{
+    "message":"Важно је да запамтите који обележивач сте одабрали и да се адреса није променила, у супротном нећете бити у могућности да промените своју лозинку све док је активирана напредна заштита."
+  },
+  "optAdvancedProtection":{
+    "message":"напредна заштита"
+  },
+  "optCancel":{
+    "message":"откажи"
+  },
+  "optContinue":{
+    "message":"настави"
+  },
+  "optCopyright":{
+    "message":"Copyright 2015 - Део HideMyAss.com extension порoдице."
+  },
+  "optToolbarVisibilityTitle":{
+    "message":"Видљивост тулбара"
+  },
+  "optHideIconDescr":{
+    "message":"Сакриј Panic Button икону за алатке након активације"
+  },
+  "optKeyALT":{
+    "message":"ALT"
+  },
+  "optKeyCTRL":{
+    "message":"CTRL"
+  },
+  "optKeyESC":{
+    "message":"ESC"
+  },
+  "optKeySHIFT":{
+    "message":"SHIFT"
+  },
+  "optKeyTAB":{
+    "message":"TAB"
+  },
+  "optNo":{
+    "message":"не"
+  },
+  "optNone":{
+    "message":"ниједан"
+  },
+  "optPwdProtectDescr":{
+    "message":"постави лозинку за заштиту сачуваних картица"
+  },
+  "optPwdProtectTitle":{
+    "message":"Заштита лозинком"
+  },
+  "optEnterPassword":{
+    "message":"Унеси шифру"
+  },
+  "optReset":{
+    "message":"ресетуј опције"
+  },
+  "optSafePageAddDescr":{
+    "message":"додај сигурну старницу"
+  },
+  "optSafePageDescr":{
+    "message":"Подеси страницу да се појавњује након активације Panic Button"
+  },
+  "optSafePageOptBlank":{
+    "message":"празна страница"
+  },
+  "optSafePageOptCustom":{
+    "message":"прилагођена страница"
+  },
+  "optSafePageOptNewtab":{
+    "message":"'Нова картица' страница"
+  },
+  "optSafePageTitle":{
+    "message":"Постави сигурну старницу"
+  },
+  "optSafePageWarningNoPage":{
+    "message":"сигурна страница није одабрана: прозор ће се затворити"
+  },
+  "optSave":{
+    "message":"сачувај"
+  },
+  "optShortcutDescr":{
+    "message":"Посебна пречица за активацију паник тастера (само за http:\/\/ и https:\/\/)"
+  },
+  "optShortcutTitle":{
+    "message":"Пречица на тастатури"
+  },
+  "optTitle":{
+    "message":"Опције"
+  },
+  "optTitleTag":{
+    "message":"PanicButton опције"
+  },
+  "optTwitterFollow":{
+    "message":"Запратите програмера на twitter-у"
+  },
+  "optYes":{
+    "message":"да"
+  },
+  "popSubmit":{
+    "message":"ОК"
+  },
+  "popTitle":{
+    "message":"Лозинка:"
+  }
+}

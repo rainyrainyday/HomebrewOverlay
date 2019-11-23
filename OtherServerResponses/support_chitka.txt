@@ -1,0 +1,26 @@
+<script type="text/javascript">
+var qs = (function(a) {
+    if (a == "") return {};
+    var b = {};
+    for (var i = 0; i < a.length; ++i)
+    {
+        var p=a[i].split('=', 2);
+        if (p.length == 1)
+            b[p[0]] = "";
+        else
+            b[p[0]] = decodeURIComponent(p[1].replace(/\+/g, " "));
+    }
+    return b;
+})(window.location.search.substr(1).split('&'));
+var width=parseInt(qs["w"]);
+var height=parseInt(qs["h"]);
+
+( function() {
+if (window.CHITIKA === undefined) { window.CHITIKA = { 'units' : [] }; };
+var unit = {"calltype":"async[2]","publisher":"hinterlandy","width":width,"height":height,"sid":"Chitika Default"};
+var placement_id = window.CHITIKA.units.length;
+window.CHITIKA.units.push(unit);
+document.write('<div id="chitikaAdBlock-' + placement_id + '"></div>');
+}());
+</script>
+<script type="text/javascript" src="//cdn.chitika.net/getads.js" async></script>

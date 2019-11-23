@@ -1,0 +1,11 @@
+{
+  "extName":{
+    "message":"Búsqueda en Diccionario de Oxford"
+  },
+  "contextMenu":{
+    "message":"Búsqueda en Diccionario de Oxford"
+  },
+  "description":{
+    "message":"Seleccione texto y haga clic con el botón derecho para buscarlo en Oxford Dictionary."
+  }
+}

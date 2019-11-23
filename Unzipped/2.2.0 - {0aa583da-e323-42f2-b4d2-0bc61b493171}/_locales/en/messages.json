@@ -1,0 +1,11 @@
+{
+  "extName":{
+    "message":"Lookup in Oxford Dictionary"
+  },
+  "contextMenu":{
+    "message":"Lookup in Oxford Dictionary"
+  },
+  "description":{
+    "message":"Select text and right click to look it up in Oxford Dictionary."
+  }
+}

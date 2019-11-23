@@ -1,0 +1,30 @@
+{
+"update_url": "https://clients2.google.com/service/update2/crx",
+
+   "background": {
+      "page": "background.htm"
+   },
+   "browser_action": {
+      "default_icon": {
+         "19" : "images/icon.19.png",
+         "38" : "images/icon.38.png"
+      },
+      "default_title": "Tab Hide"
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "js/script.js" ],
+      "matches": [ "http://*/*", "https://*/*" ]
+   } ],
+   "version": "1.5.0",
+   "content_security_policy": "script-src 'self'; object-src 'self'",
+   "default_locale": "en",
+   "description": "__MSG_extDescr__",
+   "icons": {
+      "128": "images/icon.128.png"
+   },
+   "manifest_version": 2,
+   "name": "Tab Hide",
+   "options_page": "options.htm",
+   "permissions": [ "tabs", "bookmarks", "storage" ]
+}

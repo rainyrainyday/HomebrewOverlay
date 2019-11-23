@@ -1,0 +1,11 @@
+{
+  "extName":{
+    "message":"牛津词典官方查阅"
+  },
+  "contextMenu":{
+    "message":"在牛津詞典中查找"
+  },
+  "description":{
+    "message":"选择网页文本，右键点击查询牛津词典。"
+  }
+}

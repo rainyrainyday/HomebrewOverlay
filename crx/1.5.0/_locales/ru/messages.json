@@ -1,0 +1,173 @@
+{
+  "defTitle":{
+    "message":"PanicButton"
+  },
+  "extDescr":{
+    "message":"Мгновенно скройте все вкладки одним нажатием кнопки и восстановите их позже."
+  },
+  "extName":{
+    "message":"PanicButton"
+  },
+  "folderName":{
+    "message":"временная Паника"
+  },
+  "optTopDescr1":{
+    "message":"PanicButton - это простой способ скрыть все ваши вкладки сразу одним щелчком мыши. При этом открытые вкладки сохраняются в виде закладок в отдельной папке. Она подсвечена зеленым цветом и показывает количество скрытых вкладок."
+  },
+  "optTopDescr2":{
+    "message":"Повторное нажатие на PanicButton восстанавливает все вкладки, закрытые ранее. Подсказка - создайте сочетания горячих клавиш, защитите сохраненные вкладки паролем и установите безопасные страницы!"
+  },
+  "optAdBestVPNService":{
+    "message":"лучший VPN-сервис в мире"
+  },
+  "optAdMonthAcronym":{
+    "message":"м"
+  },
+  "optAdVPNServers":{
+    "message":"VPN-сервера"
+  },
+  "optAdLocationsIn":{
+    "message":"города в"
+  },
+  "optAdCountries":{
+    "message":"странах"
+  },
+  "optAdIPAddresses":{
+    "message":"IP-адреса"
+  },
+  "optAdUnlimitedUsage":{
+    "message":"Неограниченный трафик"
+  },
+  "optAdUseOnMultipleDevices":{
+    "message":"Поддержка разных устройств"
+  },
+  "optAdDedicatedCustomerSupport":{
+    "message":"Круглосуточная служба поддержки"
+  },
+  "optAdTryNow":{
+    "message":"Попробуйте сейчас"
+  },
+  "optAdMoneyBackDay":{
+    "message":"день"
+  },
+  "optAdMoneyBackGuarantee":{
+    "message":"Гарантия возврата денег"
+  },
+  "optAPPDialogueTitle":{
+    "message":"Дополнительная защита паролем"
+  },
+  "optAPPDropzoneText":{
+    "message":"перетащите закладку сюда"
+  },
+  "optAPPManual":{
+    "message":"Перетащите выбранную закладку выше и нажмите 'продолжить' чтобы сохранить изменения."
+  },
+  "optAPPSetupDialogueTitle":{
+    "message":"Настройка Дополнительной Защиты Паролем"
+  },
+  "optAPPSetupManual":{
+    "message":"Выберите одну из закладок в Chrome, перетащите её выше и нажмите 'сохранить'."
+  },
+  "optAPPSetupWarning":{
+    "message":"Важно помнить, какую из закладок вы выбрали и убедиться, что ее URL-адрес не изменился, иначе, если у Вас активирована дополнительная защита паролем, Вы не сможете изменить пароль."
+  },
+  "optAdvancedProtection":{
+    "message":"дополнительная защита"
+  },
+  "optCancel":{
+    "message":"отмена"
+  },
+  "optContinue":{
+    "message":"продолжить"
+  },
+  "optCopyright":{
+    "message":"Авторское право 2015 - приложение является частью HideMyAss.com."
+  },
+  "optToolbarVisibilityTitle":{
+    "message":"Видимость панели инструментов"
+  },
+  "optHideIconDescr":{
+    "message":"Скрыть иконку PanicButton после активации"
+  },
+  "optKeyALT":{
+    "message":"ALT"
+  },
+  "optKeyCTRL":{
+    "message":"CTRL"
+  },
+  "optKeyESC":{
+    "message":"ESC"
+  },
+  "optKeySHIFT":{
+    "message":"SHIFT"
+  },
+  "optKeyTAB":{
+    "message":"TAB"
+  },
+  "optNo":{
+    "message":"нет"
+  },
+  "optNone":{
+    "message":"ничего"
+  },
+  "optPwdProtectDescr":{
+    "message":"установить пароль для защиты сохраненных вкладок"
+  },
+  "optPwdProtectTitle":{
+    "message":"Защита паролем"
+  },
+  "optEnterPassword":{
+    "message":"Введите пароль"
+  },
+  "optReset":{
+    "message":"сбросить настройки"
+  },
+  "optSafePageAddDescr":{
+    "message":"добавить безопасную страницу"
+  },
+  "optSafePageDescr":{
+    "message":"Установить страницу, которая будет появляться после нажатия на PanicButton"
+  },
+  "optSafePageOptBlank":{
+    "message":"пустая страница"
+  },
+  "optSafePageOptCustom":{
+    "message":"настроить страницу"
+  },
+  "optSafePageOptNewtab":{
+    "message":"Открывать новую вкладку"
+  },
+  "optSafePageTitle":{
+    "message":"Установить безопасную страницу"
+  },
+  "optSafePageWarningNoPage":{
+    "message":"безопасная страница не выбрана: окно закроется"
+  },
+  "optSave":{
+    "message":"сохранить"
+  },
+  "optShortcutDescr":{
+    "message":"Установить собственную комбинацию клавиш для активации PanicButton (только для http:\/\/ и https:\/\/)"
+  },
+  "optShortcutTitle":{
+    "message":"Горячие клавиши?"
+  },
+  "optTitle":{
+    "message":"Настройки"
+  },
+  "optTitleTag":{
+    "message":"Настройки PanicButton"
+  },
+  "optTwitterFollow":{
+    "message":"разработчик в Твиттере"
+  },
+  "optYes":{
+    "message":"да"
+  },
+  "popSubmit":{
+    "message":"ОК"
+  },
+  "popTitle":{
+    "message":"Пароль:"
+  }
+}

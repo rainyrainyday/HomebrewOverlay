@@ -1,0 +1,173 @@
+{
+  "defTitle":{
+    "message":"PanicButton"
+  },
+  "extDescr":{
+    "message":"한번의 클릭으로 모든 탭을 감추고 나중에 복구하세요."
+  },
+  "extName":{
+    "message":"PanicButton"
+  },
+  "folderName":{
+    "message":"temporary Panic"
+  },
+  "optTopDescr1":{
+    "message":"PanicButton is an easy way to hide all of your tabs at once with a single click. It saves open tabs as bookmarks in a separate folder, after which it turns green and shows you the number of hidden tabs."
+  },
+  "optTopDescr2":{
+    "message":"Another click on the PanicButton restores all of the tabs you have hidden earlier. Tip - create keyboard shortcuts, password protect your saved tabs, and set safe pages!"
+  },
+  "optAdBestVPNService":{
+    "message":"best VPN service in the world"
+  },
+  "optAdMonthAcronym":{
+    "message":"m"
+  },
+  "optAdVPNServers":{
+    "message":"VPN servers"
+  },
+  "optAdLocationsIn":{
+    "message":"locations in"
+  },
+  "optAdCountries":{
+    "message":"countries"
+  },
+  "optAdIPAddresses":{
+    "message":"IP addresses"
+  },
+  "optAdUnlimitedUsage":{
+    "message":"Unlimited bandwidth usage"
+  },
+  "optAdUseOnMultipleDevices":{
+    "message":"Use on multiple devices"
+  },
+  "optAdDedicatedCustomerSupport":{
+    "message":"24\/7 dedicated customer support"
+  },
+  "optAdTryNow":{
+    "message":"Try it now"
+  },
+  "optAdMoneyBackDay":{
+    "message":"day"
+  },
+  "optAdMoneyBackGuarantee":{
+    "message":"Money Back Guaratee"
+  },
+  "optAPPDialogueTitle":{
+    "message":"Advanced Password Protection"
+  },
+  "optAPPDropzoneText":{
+    "message":"drop bookmark here"
+  },
+  "optAPPManual":{
+    "message":"Drag your chosen bookmark into the area above and click 'continue' to save your changes."
+  },
+  "optAPPSetupDialogueTitle":{
+    "message":"Advanced Password Protection Setup"
+  },
+  "optAPPSetupManual":{
+    "message":"Simply choose one of your Chrome bookmarks, drag it into the area above and click 'save'."
+  },
+  "optAPPSetupWarning":{
+    "message":"It is important that you remember which bookmark you chose and that its URL does not change or otherwise you will not be able to change your password while advanced protection is activated."
+  },
+  "optAdvancedProtection":{
+    "message":"advanced protection"
+  },
+  "optCancel":{
+    "message":"cancel"
+  },
+  "optContinue":{
+    "message":"continue"
+  },
+  "optCopyright":{
+    "message":"Copyright 2012 - Part of the HideMyAss.com extension family."
+  },
+  "optToolbarVisibilityTitle":{
+    "message":"Toolbar visibility"
+  },
+  "optHideIconDescr":{
+    "message":"PanicButton 아이콘을 사용후에 숨기기"
+  },
+  "optKeyALT":{
+    "message":"ALT"
+  },
+  "optKeyCTRL":{
+    "message":"CTRL"
+  },
+  "optKeyESC":{
+    "message":"ESC"
+  },
+  "optKeySHIFT":{
+    "message":"SHIFT"
+  },
+  "optKeyTAB":{
+    "message":"TAB"
+  },
+  "optNo":{
+    "message":"아니오"
+  },
+  "optNone":{
+    "message":"미사용"
+  },
+  "optPwdProtectDescr":{
+    "message":"저장된 탭들을 암호를 설정해서 보호하기"
+  },
+  "optPwdProtectTitle":{
+    "message":"암호 걸기?"
+  },
+  "optEnterPassword":{
+    "message":"Enter password"
+  },
+  "optReset":{
+    "message":"옵션 초기화"
+  },
+  "optSafePageAddDescr":{
+    "message":"안전한 페이지 추가하기"
+  },
+  "optSafePageDescr":{
+    "message":"PanicButton 클릭 후 나타나는 페이지 설정하기"
+  },
+  "optSafePageOptBlank":{
+    "message":"빈 페이지"
+  },
+  "optSafePageOptCustom":{
+    "message":"사용자 설정 페이지"
+  },
+  "optSafePageOptNewtab":{
+    "message":"새 탭"
+  },
+  "optSafePageTitle":{
+    "message":"안전 페이지 설정하기:"
+  },
+  "optSafePageWarningNoPage":{
+    "message":"안전한 페이지를 선택하지 않고 창은 닫힐것이다"
+  },
+  "optSave":{
+    "message":"저장"
+  },
+  "optShortcutDescr":{
+    "message":"Custom shortcut for Panic Button activation (http:\/\/ and https:\/\/ only)"
+  },
+  "optShortcutTitle":{
+    "message":"단축키?"
+  },
+  "optTitle":{
+    "message":"옵션"
+  },
+  "optTitleTag":{
+    "message":"PanicButton 옵션"
+  },
+  "optTwitterFollow":{
+    "message":"follow developer on twitter"
+  },
+  "optYes":{
+    "message":"예"
+  },
+  "popSubmit":{
+    "message":"OK"
+  },
+  "popTitle":{
+    "message":"암호:"
+  }
+}

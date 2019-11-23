@@ -1,0 +1,173 @@
+{
+  "defTitle":{
+    "message":"PanicButton"
+  },
+  "extDescr":{
+    "message":"Oculta todas las pestañas a la vez con un solo botón y recupéralos más tarde."
+  },
+  "extName":{
+    "message":"PanicButton"
+  },
+  "folderName":{
+    "message":"Pánico temporal"
+  },
+  "optTopDescr1":{
+    "message":"Botón de alarma es una manera fácil de ocultar todas las pestañas a la vez con un solo clic. Guarda las pestañas abiertas como marcadores en una carpeta separada, después de lo cual se vuelve verde y muestra el número de pestañas ocultas."
+  },
+  "optTopDescr2":{
+    "message":"Otro clic al botón de alarma restablece todas las pestañas que escondiste antes. Consejo - crea acceso directo, protege las pestañas guardadas con la contraseña y configura páginas seguras!"
+  },
+  "optAdBestVPNService":{
+    "message":"mejor servicio VPN en el mundo"
+  },
+  "optAdMonthAcronym":{
+    "message":"m"
+  },
+  "optAdVPNServers":{
+    "message":"Servidores VPN"
+  },
+  "optAdLocationsIn":{
+    "message":"ubicaciones en"
+  },
+  "optAdCountries":{
+    "message":"países"
+  },
+  "optAdIPAddresses":{
+    "message":"Direcciones IP"
+  },
+  "optAdUnlimitedUsage":{
+    "message":"Ancho de banda ilimitado"
+  },
+  "optAdUseOnMultipleDevices":{
+    "message":"Úsalo en varios dispositivos"
+  },
+  "optAdDedicatedCustomerSupport":{
+    "message":"soporte al cliente disponible 24\/7"
+  },
+  "optAdTryNow":{
+    "message":"Pruébalo ahora"
+  },
+  "optAdMoneyBackDay":{
+    "message":"día"
+  },
+  "optAdMoneyBackGuarantee":{
+    "message":"Garantía de devolución de dinero"
+  },
+  "optAPPDialogueTitle":{
+    "message":"Protección avanzada de contraseña"
+  },
+  "optAPPDropzoneText":{
+    "message":"arrastra aqui tu marcador"
+  },
+  "optAPPManual":{
+    "message":"Arrastra el marcador elegido al area superior y haz clic en 'continuar'."
+  },
+  "optAPPSetupDialogueTitle":{
+    "message":"Configuración de Protección Avanzada de Contraseña"
+  },
+  "optAPPSetupManual":{
+    "message":"Simplemente elige uno de los favoritos de Chrome, arrastra a la zona anterior y haz clic en 'guardar'."
+  },
+  "optAPPSetupWarning":{
+    "message":"Es importante que recuerdes el marcador que usaste y que tu URL no cambie, al contrario, no podrás cambiar tu contraseña cuando la protección avanzada esté activada."
+  },
+  "optAdvancedProtection":{
+    "message":"protección avanzada"
+  },
+  "optCancel":{
+    "message":"cancelar"
+  },
+  "optContinue":{
+    "message":"continuar"
+  },
+  "optCopyright":{
+    "message":"Copyright 2015 - parte de la familia de extensión HideMyAss.com."
+  },
+  "optToolbarVisibilityTitle":{
+    "message":"La visibilité de la barre d'outils"
+  },
+  "optHideIconDescr":{
+    "message":"Esconde el icono de la barra de herramientas de PanicButton despues de la activación."
+  },
+  "optKeyALT":{
+    "message":"ALT"
+  },
+  "optKeyCTRL":{
+    "message":"CTRL"
+  },
+  "optKeyESC":{
+    "message":"ESC"
+  },
+  "optKeySHIFT":{
+    "message":"CAMBIO"
+  },
+  "optKeyTAB":{
+    "message":"PESTAÑA"
+  },
+  "optNo":{
+    "message":"no"
+  },
+  "optNone":{
+    "message":"Ninguno"
+  },
+  "optPwdProtectDescr":{
+    "message":"establece una contraseña para proteger tus fichas almacenadas"
+  },
+  "optPwdProtectTitle":{
+    "message":"Protección de contraseña"
+  },
+  "optEnterPassword":{
+    "message":"Entrer le mot de passe"
+  },
+  "optReset":{
+    "message":"restablecer las opciones"
+  },
+  "optSafePageAddDescr":{
+    "message":"añdir pagina segura"
+  },
+  "optSafePageDescr":{
+    "message":"Establece una página que aparece después de hacer clic en el PanicButton"
+  },
+  "optSafePageOptBlank":{
+    "message":"pagina en blanco"
+  },
+  "optSafePageOptCustom":{
+    "message":"pagina personalizada"
+  },
+  "optSafePageOptNewtab":{
+    "message":"Nueva Pestaña"
+  },
+  "optSafePageTitle":{
+    "message":"Establece una página segura:"
+  },
+  "optSafePageWarningNoPage":{
+    "message":"no hay ninguna pagina seleccionada: se cerrará la ventana"
+  },
+  "optSave":{
+    "message":"guardar"
+  },
+  "optShortcutDescr":{
+    "message":"Activa PanicButton usando un atajo del teclado (Solamente http:\/\/ y https:\/\/)."
+  },
+  "optShortcutTitle":{
+    "message":"Teclado de acceso directo"
+  },
+  "optTitle":{
+    "message":"Opciones"
+  },
+  "optTitleTag":{
+    "message":"PanicButton Opciones"
+  },
+  "optTwitterFollow":{
+    "message":"sigue al programador en twitter"
+  },
+  "optYes":{
+    "message":"sí"
+  },
+  "popSubmit":{
+    "message":"Vale"
+  },
+  "popTitle":{
+    "message":"Contraseña:"
+  }
+}

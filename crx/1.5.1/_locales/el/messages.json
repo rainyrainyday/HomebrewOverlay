@@ -1,0 +1,173 @@
+{
+  "defTitle":{
+    "message":"Panic Button"
+  },
+  "extDescr":{
+    "message":"Κρύψτε όλες τις καρτέλες σας αμέσως με ένα κουμπί και επαναφέρτε τις αργότερα."
+  },
+  "extName":{
+    "message":"PanicButton"
+  },
+  "folderName":{
+    "message":"προσωρινός πανικός"
+  },
+  "optTopDescr1":{
+    "message":"Το PanicButton είναι εύκολος τρόπος για να κρύψετε όλες τις καρτέλες σας αμέσως με έναν ενιαίο κλικ. Σώζει ανοιχτές καρτέλες ως σελιδοδείκτες σε ένα ξεχωριστό φάκελο, μετά το οποίο γίνεται πράσινο και σας δείχνει τον αριθμό των κρυφών καρτέλων."
+  },
+  "optTopDescr2":{
+    "message":"'Αλλο ένα κλικ στο PanicButton επαναφέρει όλες τις καρτέλες που έχετε αποκρύψει νωρίτερα. Συμβουλή - δημιουργήστε συντομεύσεις πληκτρολογίου, προστατέψτε τις καρτέλες σας με κωδικό και διαμορφώστε ασφαλείς σελίδες!"
+  },
+  "optAdBestVPNService":{
+    "message":"η καλύτερη υπηρεσία VPN στον κόσμο"
+  },
+  "optAdMonthAcronym":{
+    "message":"μ"
+  },
+  "optAdVPNServers":{
+    "message":"Διακομιστές VPN"
+  },
+  "optAdLocationsIn":{
+    "message":"τοποθεσίες σε"
+  },
+  "optAdCountries":{
+    "message":"χώρες"
+  },
+  "optAdIPAddresses":{
+    "message":"IP διευθύνσεις"
+  },
+  "optAdUnlimitedUsage":{
+    "message":"Απεριόριστη χρήση της κυκλοφορίας του Διαδικτύου"
+  },
+  "optAdUseOnMultipleDevices":{
+    "message":"Χρήση σε πολλαπλές συσκευές"
+  },
+  "optAdDedicatedCustomerSupport":{
+    "message":"24\/7 ειδική υποστήριξη πελατών"
+  },
+  "optAdTryNow":{
+    "message":"Δοκιμάστε το τώρα"
+  },
+  "optAdMoneyBackDay":{
+    "message":"μέρα"
+  },
+  "optAdMoneyBackGuarantee":{
+    "message":"Εγγύηση επιστροφής χρημάτων"
+  },
+  "optAPPDialogueTitle":{
+    "message":"Προχωρημένη Προστασία Κωδικού Πρόσβασης"
+  },
+  "optAPPDropzoneText":{
+    "message":"αφήστε τον σελιδοδείκτη εδώ"
+  },
+  "optAPPManual":{
+    "message":"Σύρετε τον επιλεγμένο σελιδοδείκτη μέσα στην πάνω περιοχή και πατήστε 'συνέχεια' για να σώσετε τις αλλαγές σας."
+  },
+  "optAPPSetupDialogueTitle":{
+    "message":"Ρύθμιση Προχωρημένης Προστασίας Κωδικού Πρόσβασης"
+  },
+  "optAPPSetupManual":{
+    "message":"Απλά επιλέξτε έναν απο τους σελιδοδείκτες του Chrome, σύρετε τον μέσα στην πάνω περιοχή και πατήστε 'αποθήκευση'."
+  },
+  "optAPPSetupWarning":{
+    "message":"Είναι σημαντικό να θυμάστε ποιόν σελιδοδείκτη διαλέξατε και να μην αλλάξει το URL του διότι διαφορετικά δεν θα μπορείτε να αλλάξετε τον κωδικό πρόσβασης οταν η προχωρημένη προστασία είναι ενεργοποιημένη."
+  },
+  "optAdvancedProtection":{
+    "message":"προχωρημένη προστασία"
+  },
+  "optCancel":{
+    "message":"ακύρωση"
+  },
+  "optContinue":{
+    "message":"συνέχεια"
+  },
+  "optCopyright":{
+    "message":"Πνευματικά δικαιώματα 2015 - μέρος της οικογένειας HideMyAss.com επέκταση."
+  },
+  "optToolbarVisibilityTitle":{
+    "message":"Προβολή γραμμής εργαλείων"
+  },
+  "optHideIconDescr":{
+    "message":"κρύψτε το εικονίδιο της γραμμής εργαλείων PanicButton μετά την ενεργοποίηση"
+  },
+  "optKeyALT":{
+    "message":"ALT"
+  },
+  "optKeyCTRL":{
+    "message":"CTRL"
+  },
+  "optKeyESC":{
+    "message":"ESC"
+  },
+  "optKeySHIFT":{
+    "message":"SHIFT"
+  },
+  "optKeyTAB":{
+    "message":"ΚΑΡΤΕΛΑ"
+  },
+  "optNo":{
+    "message":"Όχι"
+  },
+  "optNone":{
+    "message":"κανένα"
+  },
+  "optPwdProtectDescr":{
+    "message":"διαμορφώστε ενα κωδικό πρόσβασης για να προστατέψετε τις αποθηκευμένες καρτέλες σας"
+  },
+  "optPwdProtectTitle":{
+    "message":"Προστασία κωδικού πρόσβασης?"
+  },
+  "optEnterPassword":{
+    "message":"Εισάγετε τον κωδικό πρόσβασης"
+  },
+  "optReset":{
+    "message":"επαναφορά ρυθμίσεων"
+  },
+  "optSafePageAddDescr":{
+    "message":"προσθέστε ασφαλή σελίδα"
+  },
+  "optSafePageDescr":{
+    "message":"ορίσετε μια σελίδα που θα εμφανίζεται αφου πατήσετε το PanicButton"
+  },
+  "optSafePageOptBlank":{
+    "message":"κενή σελίδα"
+  },
+  "optSafePageOptCustom":{
+    "message":"προσαρμοσμένη σελίδα"
+  },
+  "optSafePageOptNewtab":{
+    "message":"σελίδα 'Νέα Καρτέλα'"
+  },
+  "optSafePageTitle":{
+    "message":"Ορίσετε μία ασφαλή σελίδα:"
+  },
+  "optSafePageWarningNoPage":{
+    "message":"δεν επιλέχθηκε ασφαλή σελίδα: το παράθυρο θα κλείσει"
+  },
+  "optSave":{
+    "message":"αποθήκευση"
+  },
+  "optShortcutDescr":{
+    "message":"ενεργοποιήστε το PanicButton χρησιμοποιώντας μια προσαρμοσμένη συντόμευση πληκτρολογίου (μόνο http:\/\/ και https:\/\/)"
+  },
+  "optShortcutTitle":{
+    "message":"Συντόμευση πληκτρολογίου?"
+  },
+  "optTitle":{
+    "message":"Επιλογές"
+  },
+  "optTitleTag":{
+    "message":"Επιλογές PanicButton"
+  },
+  "optTwitterFollow":{
+    "message":"Ακολουθήστε προγραμματιστή στο twitter"
+  },
+  "optYes":{
+    "message":"ναι"
+  },
+  "popSubmit":{
+    "message":"OK"
+  },
+  "popTitle":{
+    "message":"Κωδικός:"
+  }
+}

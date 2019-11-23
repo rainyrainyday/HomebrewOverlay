@@ -1,0 +1,173 @@
+{
+  "defTitle":{
+    "message":"PanicButton"
+  },
+  "extDescr":{
+    "message":"Миттєво сховати всі відкриті вкладки натисканням однієї кнопки. Вкладки можна відновити пізніше."
+  },
+  "extName":{
+    "message":"PanicButton"
+  },
+  "folderName":{
+    "message":"тимчасовий Panic"
+  },
+  "optTopDescr1":{
+    "message":"PanicButton - це легкий спосіб приховати усі твої вкладки одним кліком. Він зберігає усі відкриті вкладки як закладки в окремій папці, після чого логотип замальовується зеленим кольором і показує кількість прихованих вкладок."
+  },
+  "optTopDescr2":{
+    "message":"Наступний клік на PanicButton відновлює усі вкладки, приховані раніше. Порада - створи гарячі клавіші, захисти збережені вкладки паролем та признач безпечні сторінки!"
+  },
+  "optAdBestVPNService":{
+    "message":"найкращий VPN сервіс у світі"
+  },
+  "optAdMonthAcronym":{
+    "message":"м"
+  },
+  "optAdVPNServers":{
+    "message":"VPN сервери"
+  },
+  "optAdLocationsIn":{
+    "message":"точок у"
+  },
+  "optAdCountries":{
+    "message":"країнах"
+  },
+  "optAdIPAddresses":{
+    "message":"IP адрес"
+  },
+  "optAdUnlimitedUsage":{
+    "message":"Безлімітний трафік"
+  },
+  "optAdUseOnMultipleDevices":{
+    "message":"Використання на всіх пристроях"
+  },
+  "optAdDedicatedCustomerSupport":{
+    "message":"Цілодобова служба підтримки"
+  },
+  "optAdTryNow":{
+    "message":"Спробуй зараз"
+  },
+  "optAdMoneyBackDay":{
+    "message":"денна"
+  },
+  "optAdMoneyBackGuarantee":{
+    "message":"гарантія повернення коштів"
+  },
+  "optAPPDialogueTitle":{
+    "message":"Розширений Захист паролем"
+  },
+  "optAPPDropzoneText":{
+    "message":"падіння закладки тут"
+  },
+  "optAPPManual":{
+    "message":"Перетягніть обрану закладку в області і натисніть 'Продовжити', щоб зберегти зміни."
+  },
+  "optAPPSetupDialogueTitle":{
+    "message":"Розширений Захист паролем установки"
+  },
+  "optAPPSetupManual":{
+    "message":"Просто виберіть одну із закладок Chrome, перетягніть його в область і натисніть 'Зберегти'."
+  },
+  "optAPPSetupWarning":{
+    "message":"Важливо, що ви пам'ятаєте, який закладці ви вибрали і що його URL-адреса не змінюється, або в іншому випадку ви не зможете змінити свій пароль в той час як передові спрацьовування захисту."
+  },
+  "optAdvancedProtection":{
+    "message":"додатковий захист"
+  },
+  "optCancel":{
+    "message":"Скасувати"
+  },
+  "optContinue":{
+    "message":"продовжувати"
+  },
+  "optCopyright":{
+    "message":"not relevant anymore."
+  },
+  "optToolbarVisibilityTitle":{
+    "message":"Видимість у панелі інструментів"
+  },
+  "optHideIconDescr":{
+    "message":"приховати іконку PanicButton на панелі інструментів після активації"
+  },
+  "optKeyALT":{
+    "message":"ALT"
+  },
+  "optKeyCTRL":{
+    "message":"CTRL"
+  },
+  "optKeyESC":{
+    "message":"ESC"
+  },
+  "optKeySHIFT":{
+    "message":"SHIFT"
+  },
+  "optKeyTAB":{
+    "message":"TAB"
+  },
+  "optNo":{
+    "message":"ні"
+  },
+  "optNone":{
+    "message":"немає"
+  },
+  "optPwdProtectDescr":{
+    "message":"налаштувати пароль для захисту збережених вкладок"
+  },
+  "optPwdProtectTitle":{
+    "message":"Захист паролем?"
+  },
+  "optEnterPassword":{
+    "message":"Введіть пароль"
+  },
+  "optReset":{
+    "message":"зкинути всі налаштування"
+  },
+  "optSafePageAddDescr":{
+    "message":"додати безпечну сторінку"
+  },
+  "optSafePageDescr":{
+    "message":"призначити сторінку, яка з’являється післе натискання на PanicButton"
+  },
+  "optSafePageOptBlank":{
+    "message":"порожня сторінка"
+  },
+  "optSafePageOptCustom":{
+    "message":"вказану сторінку"
+  },
+  "optSafePageOptNewtab":{
+    "message":"сторінка 'Нова вкладка'"
+  },
+  "optSafePageTitle":{
+    "message":"Призначити безпечну сторінку:"
+  },
+  "optSafePageWarningNoPage":{
+    "message":"не вибрано безпечної сторінки: вікно браузера буде зачинено"
+  },
+  "optSave":{
+    "message":"зберегти"
+  },
+  "optShortcutDescr":{
+    "message":"активувати PanicButton за допомогою комбінації клавіш швидкого доступу (тільки http:\/\/ та https:\/\/)"
+  },
+  "optShortcutTitle":{
+    "message":"Гарячі клавіши?"
+  },
+  "optTitle":{
+    "message":"Налаштування"
+  },
+  "optTitleTag":{
+    "message":"Налаштування PanicButton"
+  },
+  "optTwitterFollow":{
+    "message":"not relevant anymore"
+  },
+  "optYes":{
+    "message":"так"
+  },
+  "popSubmit":{
+    "message":"OK"
+  },
+  "popTitle":{
+    "message":"Пароль:"
+  }
+}

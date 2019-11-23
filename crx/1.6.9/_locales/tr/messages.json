@@ -1,0 +1,173 @@
+{
+  "defTitle":{
+    "message":"PanicButton"
+  },
+  "extDescr":{
+    "message":"Tek bir tuşla tüm sekmelerinizi tek seferde gizleyin ve daha sonra geri yükleyin."
+  },
+  "extName":{
+    "message":"PanicButton"
+  },
+  "folderName":{
+    "message":"Geçici panik"
+  },
+  "optTopDescr1":{
+    "message":"Panik Butonu aynı anda tek bir tıklama ile tüm sekmeleri gizlemek için kolay bir yoldur. Buton ayrı bir klasörde imi olarak açık sekmeleri kaydeder ve bundan sonra yeşil renkte yanar ve size gizli sekmelerin sayısını gösterir."
+  },
+  "optTopDescr2":{
+    "message":"Panik butonuna tekrar tıklayarak daha önce gizli sekmelerin geri yükler. İpucu - şifre kaydedilmiş sekmeleri korur, güvenli sayfaları ayarlayın ve klavye kısayolları oluşturun!"
+  },
+  "optAdBestVPNService":{
+    "message":"Dünyanın en iyi VPN hizmeti"
+  },
+  "optAdMonthAcronym":{
+    "message":"dk"
+  },
+  "optAdVPNServers":{
+    "message":"VPN sunucuları"
+  },
+  "optAdLocationsIn":{
+    "message":"mevcut konumlar"
+  },
+  "optAdCountries":{
+    "message":"ülkeler"
+  },
+  "optAdIPAddresses":{
+    "message":"IP adresleri"
+  },
+  "optAdUnlimitedUsage":{
+    "message":"Sınırsız bant genişliği kullanımı"
+  },
+  "optAdUseOnMultipleDevices":{
+    "message":"Çoklu cihazlarda kullanım"
+  },
+  "optAdDedicatedCustomerSupport":{
+    "message":"adanmış 24\/7 müşteri desteği"
+  },
+  "optAdTryNow":{
+    "message":"Şimdi dene"
+  },
+  "optAdMoneyBackDay":{
+    "message":"gün"
+  },
+  "optAdMoneyBackGuarantee":{
+    "message":"Para iade garantisi"
+  },
+  "optAPPDialogueTitle":{
+    "message":"Yüksek Şifre Koruması"
+  },
+  "optAPPDropzoneText":{
+    "message":"yer imi'ni buraya sürükle ve bırak"
+  },
+  "optAPPManual":{
+    "message":"Değişiklikleri kaydetmek için seçtiğin yerimi'ni yukarıdaki alana sürükle ve 'devam' tuşuna bas."
+  },
+  "optAPPSetupDialogueTitle":{
+    "message":"Yüksek Şifre Koruması Kurulumu"
+  },
+  "optAPPSetupManual":{
+    "message":"Chrome yer imlerinden birini seç ve bu alana sürükle daha sonra  'kaydet' e bas."
+  },
+  "optAPPSetupWarning":{
+    "message":"Hangi yer imi'ni seçtiğini hatırla ve bu URL yi değiştirme , aksi takdirde yüksek koruma aktif iken şifreni değiştiremeyeceksin "
+  },
+  "optAdvancedProtection":{
+    "message":"yüksek koruma"
+  },
+  "optCancel":{
+    "message":"çıkış"
+  },
+  "optContinue":{
+    "message":"devam"
+  },
+  "optCopyright":{
+    "message":"Copyright 2015 - HideMyAss.com eklenti ailesinin bir parçası."
+  },
+  "optToolbarVisibilityTitle":{
+    "message":"Araç çubuğu görünürlüğü"
+  },
+  "optHideIconDescr":{
+    "message":"etkinleştirildikten sonra PanicButton araç çubuğunu kaldır."
+  },
+  "optKeyALT":{
+    "message":"ALT"
+  },
+  "optKeyCTRL":{
+    "message":"KONT"
+  },
+  "optKeyESC":{
+    "message":"ÇIK"
+  },
+  "optKeySHIFT":{
+    "message":"ÜST KARAKTER"
+  },
+  "optKeyTAB":{
+    "message":"SEKME"
+  },
+  "optNo":{
+    "message":"hayır"
+  },
+  "optNone":{
+    "message":"hiçbiri"
+  },
+  "optPwdProtectDescr":{
+    "message":"Depolanan sekmelerinizi korumak için bir şifre belirleyin"
+  },
+  "optPwdProtectTitle":{
+    "message":"Şifre koruması?"
+  },
+  "optEnterPassword":{
+    "message":"Şifreyi girin"
+  },
+  "optReset":{
+    "message":"Sıfırlama seçenekleri"
+  },
+  "optSafePageAddDescr":{
+    "message":"güvenli sayfa ekle"
+  },
+  "optSafePageDescr":{
+    "message":"PanicButton'a tıkladıktan sonra görünen bir sayfa belirleyin"
+  },
+  "optSafePageOptBlank":{
+    "message":"boş sayfa"
+  },
+  "optSafePageOptCustom":{
+    "message":"özel sayfa"
+  },
+  "optSafePageOptNewtab":{
+    "message":"'Yeni Sekme' sayfası"
+  },
+  "optSafePageTitle":{
+    "message":"Bir güvenli sayfa ayarlayın:"
+  },
+  "optSafePageWarningNoPage":{
+    "message":"güvenli sayfa seçimi yapmadınız: pencere kapanacaktır"
+  },
+  "optSave":{
+    "message":"kaydet"
+  },
+  "optShortcutDescr":{
+    "message":"PanicButton'ı özel bir klavye kısayoluyla etkinleştir (sadece http:\/\/ ve https:\/\/)"
+  },
+  "optShortcutTitle":{
+    "message":"Klavye kısayolu?"
+  },
+  "optTitle":{
+    "message":"Seçenekler"
+  },
+  "optTitleTag":{
+    "message":"PanicButton Seçenekleri"
+  },
+  "optTwitterFollow":{
+    "message":"Twitter üzerinde geliştirici takip edin"
+  },
+  "optYes":{
+    "message":"evet"
+  },
+  "popSubmit":{
+    "message":"Tamam"
+  },
+  "popTitle":{
+    "message":"Şifre:"
+  }
+}

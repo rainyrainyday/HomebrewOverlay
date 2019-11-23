@@ -1,0 +1,173 @@
+{
+  "defTitle":{
+    "message":"PanicButton"
+  },
+  "extDescr":{
+    "message":"Verberg al je tabbladen in een enkele klik en herstel ze later."
+  },
+  "extName":{
+    "message":"PanicButton"
+  },
+  "folderName":{
+    "message":"niet blijvende paniek"
+  },
+  "optTopDescr1":{
+    "message":"PanicButton is een gemakkelijke manier om al je open tabs te verbergen met een enkele klik. Open tabs worden opgeslagen als bladwijzers in een aparte map, waarna het groen word en dan het aantal verborgen tabbladen zal laten zien."
+  },
+  "optTopDescr2":{
+    "message":"Nog een klik op de PanicButton herstelt alle vorige tabbladen die je eerder hebt verborgen. Tip: het maken van sneltoetsen, wachtwoord beschermen voor het beveiligen van je opgeslagen tabs, en veilige pagina's!"
+  },
+  "optAdBestVPNService":{
+    "message":"beste VPN dienst in de wereld"
+  },
+  "optAdMonthAcronym":{
+    "message":"m"
+  },
+  "optAdVPNServers":{
+    "message":"VPN servers"
+  },
+  "optAdLocationsIn":{
+    "message":"locaties in"
+  },
+  "optAdCountries":{
+    "message":"landen"
+  },
+  "optAdIPAddresses":{
+    "message":"IP adressen"
+  },
+  "optAdUnlimitedUsage":{
+    "message":"Ongelimiteerde bandbreedte"
+  },
+  "optAdUseOnMultipleDevices":{
+    "message":"Bruikbaar op meerdere apparaten"
+  },
+  "optAdDedicatedCustomerSupport":{
+    "message":"24\/7 toegewijde support"
+  },
+  "optAdTryNow":{
+    "message":"Probeer het nu"
+  },
+  "optAdMoneyBackDay":{
+    "message":"dag"
+  },
+  "optAdMoneyBackGuarantee":{
+    "message":"Geld terug garantie"
+  },
+  "optAPPDialogueTitle":{
+    "message":"Geavanceerde Wachtwoord Bescherming"
+  },
+  "optAPPDropzoneText":{
+    "message":"bladwijzer hier plaatsen"
+  },
+  "optAPPManual":{
+    "message":"Sleep je gekozen bladwijzer naar het gebied hierboven en klik op 'doorgaan' om je wijzigingen op te slaan."
+  },
+  "optAPPSetupDialogueTitle":{
+    "message":"Geavanceerde Wachtwoord Beveiliging Setup"
+  },
+  "optAPPSetupManual":{
+    "message":"Kies simpelweg voor een van je Chrome bladwijzers, verplaats het naar het vak hierboven en klik op opslaan."
+  },
+  "optAPPSetupWarning":{
+    "message":"Het is belangrijk dat je onthoudt welke bladwijzer je hebt gekozen en dat het adres niet verandert, want anders kun je je wachtwoord niet veranderen als je de geavanceerde bescherming aan hebt staan."
+  },
+  "optAdvancedProtection":{
+    "message":"geavanceerde bescherming"
+  },
+  "optCancel":{
+    "message":"annuleer"
+  },
+  "optContinue":{
+    "message":"doorgaan"
+  },
+  "optCopyright":{
+    "message":"Copyright 2015 - onderdeel van de HideMyAss.com extensie familie."
+  },
+  "optToolbarVisibilityTitle":{
+    "message":"Werkbalk zichtbaarheid"
+  },
+  "optHideIconDescr":{
+    "message":"Verberg Panic Button werkbalk icoon na activatie"
+  },
+  "optKeyALT":{
+    "message":"ALT"
+  },
+  "optKeyCTRL":{
+    "message":"CTRL"
+  },
+  "optKeyESC":{
+    "message":"ESC"
+  },
+  "optKeySHIFT":{
+    "message":"SHIFT"
+  },
+  "optKeyTAB":{
+    "message":"TAB"
+  },
+  "optNo":{
+    "message":"nee"
+  },
+  "optNone":{
+    "message":"geen"
+  },
+  "optPwdProtectDescr":{
+    "message":"stel een wachtwoord in om je opgeslagen tabs te beveiligen"
+  },
+  "optPwdProtectTitle":{
+    "message":"Wachtwoord bescherming"
+  },
+  "optEnterPassword":{
+    "message":"Voer wachtwoord in"
+  },
+  "optReset":{
+    "message":"reset opties"
+  },
+  "optSafePageAddDescr":{
+    "message":"voeg veilige pagina toe"
+  },
+  "optSafePageDescr":{
+    "message":"Stel een pagina in die zichtbaar wordt na het klikken op de Panic Button knop"
+  },
+  "optSafePageOptBlank":{
+    "message":"blanke pagina"
+  },
+  "optSafePageOptCustom":{
+    "message":"persoonlijke pagina"
+  },
+  "optSafePageOptNewtab":{
+    "message":"'Nieuwe Tab' pagina"
+  },
+  "optSafePageTitle":{
+    "message":"Een veilige pagina instellen"
+  },
+  "optSafePageWarningNoPage":{
+    "message":"geen veilige pagina geselecteerd: het venster zal sluiten"
+  },
+  "optSave":{
+    "message":"opslaan"
+  },
+  "optShortcutDescr":{
+    "message":"Aangepaste sneltoets voor PanicButton activering (http:\/\/ en https:\/\/ alleen)"
+  },
+  "optShortcutTitle":{
+    "message":"Sneltoets"
+  },
+  "optTitle":{
+    "message":"Opties"
+  },
+  "optTitleTag":{
+    "message":"PanicButton Opties"
+  },
+  "optTwitterFollow":{
+    "message":"ontwikkelaar volgen op twitter"
+  },
+  "optYes":{
+    "message":"ja"
+  },
+  "popSubmit":{
+    "message":"OK"
+  },
+  "popTitle":{
+    "message":"Wachtwoord:"
+  }
+}

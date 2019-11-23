@@ -1,0 +1,173 @@
+{
+  "defTitle":{
+    "message":"PanicButton"
+  },
+  "extDescr":{
+    "message":"Скрий всички раздели наведнъж с един-единствен бутон и ги възстанови по-късно."
+  },
+  "extName":{
+    "message":"PanicButton"
+  },
+  "folderName":{
+    "message":"temporary Panic"
+  },
+  "optTopDescr1":{
+    "message":"PanicButton is an easy way to hide all of your tabs at once with a single click. It saves open tabs as bookmarks in a separate folder, after which it turns green and shows you the number of hidden tabs."
+  },
+  "optTopDescr2":{
+    "message":"Another click on the PanicButton restores all of the tabs you have hidden earlier. Tip - create keyboard shortcuts, password protect your saved tabs, and set safe pages!"
+  },
+  "optAdBestVPNService":{
+    "message":"best VPN service in the world"
+  },
+  "optAdMonthAcronym":{
+    "message":"m"
+  },
+  "optAdVPNServers":{
+    "message":"VPN servers"
+  },
+  "optAdLocationsIn":{
+    "message":"locations in"
+  },
+  "optAdCountries":{
+    "message":"countries"
+  },
+  "optAdIPAddresses":{
+    "message":"IP addresses"
+  },
+  "optAdUnlimitedUsage":{
+    "message":"Unlimited bandwidth usage"
+  },
+  "optAdUseOnMultipleDevices":{
+    "message":"Use on multiple devices"
+  },
+  "optAdDedicatedCustomerSupport":{
+    "message":"24\/7 dedicated customer support"
+  },
+  "optAdTryNow":{
+    "message":"Try it now"
+  },
+  "optAdMoneyBackDay":{
+    "message":"day"
+  },
+  "optAdMoneyBackGuarantee":{
+    "message":"Money Back Guaratee"
+  },
+  "optAPPDialogueTitle":{
+    "message":"Advanced Password Protection"
+  },
+  "optAPPDropzoneText":{
+    "message":"drop bookmark here"
+  },
+  "optAPPManual":{
+    "message":"Drag your chosen bookmark into the area above and click 'continue' to save your changes."
+  },
+  "optAPPSetupDialogueTitle":{
+    "message":"Advanced Password Protection Setup"
+  },
+  "optAPPSetupManual":{
+    "message":"Simply choose one of your Chrome bookmarks, drag it into the area above and click 'save'."
+  },
+  "optAPPSetupWarning":{
+    "message":"It is important that you remember which bookmark you chose and that its URL does not change or otherwise you will not be able to change your password while advanced protection is activated."
+  },
+  "optAdvancedProtection":{
+    "message":"advanced protection"
+  },
+  "optCancel":{
+    "message":"cancel"
+  },
+  "optContinue":{
+    "message":"continue"
+  },
+  "optCopyright":{
+    "message":"Copyright 2012 - Part of the HideMyAss.com extension family."
+  },
+  "optToolbarVisibilityTitle":{
+    "message":"Toolbar visibility"
+  },
+  "optHideIconDescr":{
+    "message":"скрий PanicButton иконката след активация"
+  },
+  "optKeyALT":{
+    "message":"ALT"
+  },
+  "optKeyCTRL":{
+    "message":"CTRL"
+  },
+  "optKeyESC":{
+    "message":"ESC"
+  },
+  "optKeySHIFT":{
+    "message":"SHIFT"
+  },
+  "optKeyTAB":{
+    "message":"TAB"
+  },
+  "optNo":{
+    "message":"не"
+  },
+  "optNone":{
+    "message":"нищо"
+  },
+  "optPwdProtectDescr":{
+    "message":"въведете парола, с която да защитите скритите раздели"
+  },
+  "optPwdProtectTitle":{
+    "message":"Защита с парола?"
+  },
+  "optEnterPassword":{
+    "message":"Enter password"
+  },
+  "optReset":{
+    "message":"рестартирай полетата"
+  },
+  "optSafePageAddDescr":{
+    "message":"добави безопасна страница"
+  },
+  "optSafePageDescr":{
+    "message":"когато кликнете PanicButton-а освен да се скрият текущите Ви страници, ще се отвори ваша Сигурна Страница"
+  },
+  "optSafePageOptBlank":{
+    "message":"празна страница"
+  },
+  "optSafePageOptCustom":{
+    "message":"страница по избор"
+  },
+  "optSafePageOptNewtab":{
+    "message":"'Нов Раздел' страница"
+  },
+  "optSafePageTitle":{
+    "message":"Задайте Сигурна Страница:"
+  },
+  "optSafePageWarningNoPage":{
+    "message":"не е избрана безопасна страница: прозореца ще се затвори"
+  },
+  "optSave":{
+    "message":"Запази"
+  },
+  "optShortcutDescr":{
+    "message":"активирайте PanicButton-а, като използвате комбинация от клавиши или един такъв (само http:\/\/ и https:\/\/)"
+  },
+  "optShortcutTitle":{
+    "message":"Пускане от клавиатура?"
+  },
+  "optTitle":{
+    "message":"Oпции"
+  },
+  "optTitleTag":{
+    "message":"Опции на PanicButton-а"
+  },
+  "optTwitterFollow":{
+    "message":"follow developer on twitter"
+  },
+  "optYes":{
+    "message":"да"
+  },
+  "popSubmit":{
+    "message":"OK"
+  },
+  "popTitle":{
+    "message":"Парола:"
+  }
+}

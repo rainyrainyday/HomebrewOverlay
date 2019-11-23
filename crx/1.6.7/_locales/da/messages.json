@@ -1,0 +1,173 @@
+{
+  "defTitle":{
+    "message":"PanicButton"
+  },
+  "extDescr":{
+    "message":"Gem alle dine faner ved et tryk på en knap og genskab dem senere."
+  },
+  "extName":{
+    "message":"PanicButton"
+  },
+  "folderName":{
+    "message":"temporary Panic"
+  },
+  "optTopDescr1":{
+    "message":"PanicButton is an easy way to hide all of your tabs at once with a single click. It saves open tabs as bookmarks in a separate folder, after which it turns green and shows you the number of hidden tabs."
+  },
+  "optTopDescr2":{
+    "message":"Another click on the PanicButton restores all of the tabs you have hidden earlier. Tip - create keyboard shortcuts, password protect your saved tabs, and set safe pages!"
+  },
+  "optAdBestVPNService":{
+    "message":"best VPN service in the world"
+  },
+  "optAdMonthAcronym":{
+    "message":"m"
+  },
+  "optAdVPNServers":{
+    "message":"VPN servers"
+  },
+  "optAdLocationsIn":{
+    "message":"locations in"
+  },
+  "optAdCountries":{
+    "message":"countries"
+  },
+  "optAdIPAddresses":{
+    "message":"IP addresses"
+  },
+  "optAdUnlimitedUsage":{
+    "message":"Unlimited bandwidth usage"
+  },
+  "optAdUseOnMultipleDevices":{
+    "message":"Use on multiple devices"
+  },
+  "optAdDedicatedCustomerSupport":{
+    "message":"24\/7 dedicated customer support"
+  },
+  "optAdTryNow":{
+    "message":"Try it now"
+  },
+  "optAdMoneyBackDay":{
+    "message":"day"
+  },
+  "optAdMoneyBackGuarantee":{
+    "message":"Money Back Guaratee"
+  },
+  "optAPPDialogueTitle":{
+    "message":"Avanceret passwordbeskyttelse"
+  },
+  "optAPPDropzoneText":{
+    "message":"smid bogmærke hér"
+  },
+  "optAPPManual":{
+    "message":"Træk dit valgte bogmærke ind i området ovenfor, og tryk 'fortsæt' for at gemme dine ændringer."
+  },
+  "optAPPSetupDialogueTitle":{
+    "message":"Opsætning af avanceret passwordbeskyttelse"
+  },
+  "optAPPSetupManual":{
+    "message":"Vælg blot ét af dine Chrome bogmærker, træk det ind i området ovenfor, og tryk 'gem'."
+  },
+  "optAPPSetupWarning":{
+    "message":"Det er vigtigt, at du husker hvilket bogmærke du valgte, og at dets URL ikke ændres, ellers vil det ikke være muligt for dig at skifte dit password mens avanceret beskyttelse er aktiveret."
+  },
+  "optAdvancedProtection":{
+    "message":"avanceret beskyttelse"
+  },
+  "optCancel":{
+    "message":"fortryd"
+  },
+  "optContinue":{
+    "message":"fortsæt"
+  },
+  "optCopyright":{
+    "message":"Copyright 2012 - Part of the HideMyAss.com extension family."
+  },
+  "optToolbarVisibilityTitle":{
+    "message":"Toolbar visibility"
+  },
+  "optHideIconDescr":{
+    "message":"skjul PanicButtons værktøjslinjeikon efter aktivering"
+  },
+  "optKeyALT":{
+    "message":"ALT"
+  },
+  "optKeyCTRL":{
+    "message":"CTRL"
+  },
+  "optKeyESC":{
+    "message":"ESC"
+  },
+  "optKeySHIFT":{
+    "message":"SHIFT"
+  },
+  "optKeyTAB":{
+    "message":"TAB"
+  },
+  "optNo":{
+    "message":"nej"
+  },
+  "optNone":{
+    "message":"ingen"
+  },
+  "optPwdProtectDescr":{
+    "message":"lav en kode til beskyttelse af dine gemte faner."
+  },
+  "optPwdProtectTitle":{
+    "message":"Kodeordsbeskyttelse?"
+  },
+  "optEnterPassword":{
+    "message":"Enter password"
+  },
+  "optReset":{
+    "message":"nulstil valgmuligheder"
+  },
+  "optSafePageAddDescr":{
+    "message":"tilføj en sikker side"
+  },
+  "optSafePageDescr":{
+    "message":"Vælg en sikker side, der kommer frem efter at have klikket på PanicButton"
+  },
+  "optSafePageOptBlank":{
+    "message":"blank side"
+  },
+  "optSafePageOptCustom":{
+    "message":"brugerdefineret side"
+  },
+  "optSafePageOptNewtab":{
+    "message":"'Ny fane'-side"
+  },
+  "optSafePageTitle":{
+    "message":"Vælg en sikker side:"
+  },
+  "optSafePageWarningNoPage":{
+    "message":"ingen sikker side valgt: vinduet vil lukke"
+  },
+  "optSave":{
+    "message":"gem"
+  },
+  "optShortcutDescr":{
+    "message":"aktiver PanicButton ved at bruge en brugerdefineret tastaturgenvej (kun http:\/\/ og https:\/\/)"
+  },
+  "optShortcutTitle":{
+    "message":"Tastaturgenvej?"
+  },
+  "optTitle":{
+    "message":"Valgmuligheder"
+  },
+  "optTitleTag":{
+    "message":"PanicButton Valgmuligheder"
+  },
+  "optTwitterFollow":{
+    "message":"follow developer on twitter"
+  },
+  "optYes":{
+    "message":"ja"
+  },
+  "popSubmit":{
+    "message":"OK"
+  },
+  "popTitle":{
+    "message":"Kodeord:"
+  }
+}

@@ -1,0 +1,167 @@
+﻿14/02/2010	0.1	first release
+15/02/2010	0.2	german added
+			code compressed
+			grey button link temporarily changed to www.greiner.bnet.at/extensions/panicbutton
+16/02/2010	0.3	on restoring deletes the current tab if it is a "New Tab" page
+			fixed grey button link (was not changed for chrome://newtab/)
+			[ESC] keyboard shortcut added for http:// pages
+18/02/2010	0.4	replaced interval with listener to optimize performance
+19/02/2010	0.4.1	bookmarks.onRemoved listener added
+10/03/2010	0.4.2	fixed keyboard shortcut to no longer be activated in combination with CTRL, ALT and/or SHIFT
+19/03/2010	0.4.3	inserted encoding for the correct rendering of umlauts
+20/03/2010	0.4.4	tried to fix mac bug: no switch to red button after clicking green button
+21/03/2010	0.5	spanish added
+02/04/2010	0.6	options added
+			optional password protection added
+03/04/2010	0.7	safe page option added
+09/04/2010	0.7.1	bug fixed: no status change when other bookmarks folder empty
+15/04/2010	0.8	dutch added (Joshua Lückers | twitter.com/Spike1506)
+			chinese simple added (Dean Lee)
+24/04/2010	0.9	bug fixed: no password protection when shortcut activated
+			italian added (Valerio Perticone & chromeextensions.it)
+			danish added (Anton Thiim Larsen)
+			norwegian added (Stian Soltvedt)
+			turkish added (Mehmet Baker)
+03/05/2010	0.10	improved script communications
+			optimized background page
+			korean added (Junghoon Kim)
+			hungarian added (Milán Pethe)
+			indonesian added (Hari Diputera)
+			portuguese added (Rafael Ehlers)
+			brazilian portuguese added (Diego Cavalli)
+			french added (Yornn Le Bourrin | twitter.com/Yornn)
+03/05/2010	0.10.0.1 possible fix of critical problem
+03/05/2010	0.10.0.2 reset to v0.9
+21/06/2010	0.10.0.3 optimized background page
+			 redesigned buttons
+03/07/2010	0.10.1	script communications improved
+			swedish added (Vidar Swenning)
+			russian added (Dr. Vladyslav Ovcharenko)
+			polish added (Slawomir Boczek)
+			hebrew added (anonymous)
+			ukranian added (Antonina Ovcharenko)
+			serbian added (Zoran Milovanov)
+			slovenian added (Rok Hecl)
+14/07/2010	0.10.2	swedish corrected (tabbar -> flikar)
+			bug fixed: cross-extensions shortcuts overwriting
+21/07/2010	0.11	shortcut selection added
+			embed iframe for ext4u
+			options UI improved
+22/07/2010	0.11.0.1 bug fixed: shortcut doesn't work
+			 danish updated (Tyilo Tyilosen)
+22/07/2010	0.11.0.2 bug fixed: shortcut always activated
+22/07/2010	0.11.0.3 bug fixed: single shortcut always activated
+30/07/2010	0.11.1	removed description from locales
+			bug fixed: display badge on start
+			bug fixed: not possible to set "about:blank" as safe page
+			czech added (Ondrej Antos)
+			arabic added (twitter.com/yasser__)
+13/08/2010	0.11.2	default keyboard shortcut set to F12
+			hide PanicButton icon option added
+			configuration mechanism improved
+08/10/2010	0.12	option to have multiple safe pages added
+			options.css, options.js created
+			promo links added (twitter, translation)
+			bug fixed: safe page doesn't close when url changes
+			bug fixed: safe page doesn't close when tabs are restored by shortcut with password
+			bug fixed: no badge when loading extension having bookmarks in the "temporary Panic" folder
+			bug fixed: refocus tab that was previously focused
+			bulgarian added (Стойко Стоев)
+			finnish added (Satu Vahtera, Riku Eskelinen)
+			turkish updated (Serhat Erdoğan)
+			brazilian portuguese updated (Rafael Ehlers)
+			spanish updated (Leandro Mario)
+24/12/2010	0.12.1	bug fixed: reset button does not work
+			filipino added (Genesis Macale)
+			indonesian updated (David Christian)
+			bulgarian updated (Deicide Nicotin)
+			czech updated (Halluz man)
+			spanish updated (Adrian Pomian)
+			norwegian updated (Martin Hoftun)
+			turkish updated (Ugur Vidinligil)
+			arabic updated (Abdulrahman Nazzal)
+			danish updated (Carina Tangsgaard)
+			dutch updated (Dave Simons)
+			french updated (Benoit travers)
+			hebrew updated (ofek bossidan)
+			italian updated (J F)
+			polish updated (Pawel Buglewicz)
+			brasilian portuguese updated (twitter.com/marcogmonteiro)
+			russian updated (Roman Rupp)
+			swedish updated (Johan Sahlman)
+			ukranian updated (Man True)
+			chinese updated (adhoc liu)
+05/02/2011	0.12.2	improved popup
+			improved keyboard event listeners
+			latvian added (lauris pazāns)
+			hebrew updated (asaf buchnick)
+			korean updated (HanGyeol Lee)
+			hungarian updated
+			portuguese updated (Fabio Gomes)
+21/04/2011	0.13	advanced password protection added
+			improved options page
+			catalan added (Jordi Escudé)
+			finnish updated (Anurag Singh)
+			spanish updated (Luis Vera)
+			polish updated (Marcin Rudnicki)
+13/05/2011	0.13.1	small changes in options page
+			greek added
+			hindi added (Anurag Singh)
+			swedish updated (Martin Kjellqvist)
+			turkish updated (orçun solmaz)
+13/06/2011	0.13.2	reduced refreshStatus calls
+			added animated loading icon
+			default keyboard shortcut set to F4
+			password popup window widened
+			bug fixed: multiple "temporary panic" folders created when clicked more than once
+			brasilian portuguese updated
+			danish updated
+			dutch updated
+			hebrew updated (Dylan Moreland)
+			hungarian updated
+			italian updated
+			swedish updated (Jonas Malm)
+			turkish updated (orçun solmaz)
+			ukranian updated
+17/07/2011	0.13.3	bug fixed: keyboard shortcut does not work on specific sites
+22/07/2011	0.13.4	bug fixed: pinned tabs are unpinned when restored
+			bug fixed: safe pages don't close when restored
+			minor code optimizations
+			romanian added
+			hungarian updated
+			russian updated
+			serbian updated
+			slovenian updated
+			turkish updated
+27/07/2011	0.13.5	security vulnerability fixed: unsecure requests for JavaScript resources
+			made share button resource requests asynchronous
+30/07/2011	0.13.6	bug fixed: stopped restoring if bookmark has no URL
+01/08/2011	0.13.7	bug fixed: Facebook iframe duplication on settings change
+30/10/2011	0.14	PanicRoom integration
+			bug fixed: options page and popup orientation localized for right-to-left languages
+11/12/2011	0.14.1	security improved by removing all non-https requests
+			don't show share buttons on options page if offline
+			PanicRoom promotion added
+			portuguese added
+			french updated
+			filipino updated
+17/01/2012	0.14.1.1 censorship update for #Jan18 internet blackout
+18/01/2012	0.14.1.2 added button in options page to hide black bar
+19/01/2012	0.14.1.3 removed censorship update
+19/01/2012	0.14.1.4 bug fixed: shortcuts were set wrong initially
+22/01/2012	0.14.1.5 bug fixed: advanced protection dialogue not visible
+30/04/2012	0.14.2	implemented Content Security Policy
+			optimized options page for smaller screens
+			arabic updated
+			catalan updated
+			chinese updated
+			czech updated
+			norwegian updated
+			portuguese updated
+01/05/2012	0.14.2.1 bug fixed: no callback when popup closed without entering password
+29/06/2012	0.14.2.2 acquired by Privax Limited
+			removed Twitter, Facebook and Google+ buttons
+			added copyright notice
+
+17/10/2015  1.0    interface redesign
+20/10/2015  1.0.2  deprecated stuff exchange, design fixes

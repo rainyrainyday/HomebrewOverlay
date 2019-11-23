@@ -1,0 +1,173 @@
+{
+  "defTitle":{
+    "message":"PanicButton"
+  },
+  "extDescr":{
+    "message":"Nascondi tutte le tue schede con un solo bottone e recuperale successivamente."
+  },
+  "extName":{
+    "message":"PanicButton"
+  },
+  "folderName":{
+    "message":"Panico temporaneo"
+  },
+  "optTopDescr1":{
+    "message":"PanicButton è un semplice strumento che ti permette di nascondere immediatamente tutte le schede del tuo browser con un solo clic. Cliccando sul PanicButton tutte le schede sono raccolte temporaneamente come segnalibri del browser in una cartella separata. Puoi poi riaprirle tutte le schede raccolte da PanicButton cliccando nuovamente sull'icona verde, che indica anche quante finestre sono state nascoste."
+  },
+  "optTopDescr2":{
+    "message":"Un altro clic sull'icona di PanicButton ripristina tutte le schede che hai nascosto in precedenza. Suggerimento: crea una scorciatoia per lanciare PanicButton senza muovere le mani dalla tua tastiera, proteggi le schede salvate con una password e imposta una pagina da mostrare al posto delle schede che hai appena nascosto!"
+  },
+  "optAdBestVPNService":{
+    "message":"miglior servizio VPN al mondo"
+  },
+  "optAdMonthAcronym":{
+    "message":"m"
+  },
+  "optAdVPNServers":{
+    "message":"Server VPN"
+  },
+  "optAdLocationsIn":{
+    "message":"località in"
+  },
+  "optAdCountries":{
+    "message":"paesi"
+  },
+  "optAdIPAddresses":{
+    "message":"Indirizzi IP"
+  },
+  "optAdUnlimitedUsage":{
+    "message":"Utilizzo di banda illimitato"
+  },
+  "optAdUseOnMultipleDevices":{
+    "message":"Utilizzalo su molteplici dispositivi"
+  },
+  "optAdDedicatedCustomerSupport":{
+    "message":"Assistenza clienti 24 ore su 24, 7 giorni su 7"
+  },
+  "optAdTryNow":{
+    "message":"Provalo subito"
+  },
+  "optAdMoneyBackDay":{
+    "message":"giorno"
+  },
+  "optAdMoneyBackGuarantee":{
+    "message":"Soddisfatti o rimborsati"
+  },
+  "optAPPDialogueTitle":{
+    "message":"Protezione avanzata con password"
+  },
+  "optAPPDropzoneText":{
+    "message":"goccia segnalibro qui"
+  },
+  "optAPPManual":{
+    "message":"Trascina i tuoi link scelto nella zona sopra e cliccate su 'continua'per salvare le modifiche."
+  },
+  "optAPPSetupDialogueTitle":{
+    "message":"Advanced Setup Password di protezione"
+  },
+  "optAPPSetupManual":{
+    "message":"Basta scegliere uno dei tuoi siti preferiti Chrome, trascinarlo nella zona sopra e fare clic su 'salva'."
+  },
+  "optAPPSetupWarning":{
+    "message":"E 'importante ricordare che bookmark avete scelto e che i suoi URL non cambia o altrimenti non sarà in grado di cambiare la tua password mentre la protezione avanzata è attivata."
+  },
+  "optAdvancedProtection":{
+    "message":"protezione avanzata"
+  },
+  "optCancel":{
+    "message":"annulla"
+  },
+  "optContinue":{
+    "message":"continuare"
+  },
+  "optCopyright":{
+    "message":"Copyright 2015 - una delle extensions di HideMyAss.com."
+  },
+  "optToolbarVisibilityTitle":{
+    "message":"Visibilità della Toolbar"
+  },
+  "optHideIconDescr":{
+    "message":"nascondere l'icona della barra degli strumenti PanicButton dopo l'attivazione"
+  },
+  "optKeyALT":{
+    "message":"ALT"
+  },
+  "optKeyCTRL":{
+    "message":"CTRL"
+  },
+  "optKeyESC":{
+    "message":"ESC"
+  },
+  "optKeySHIFT":{
+    "message":"MAIUSC"
+  },
+  "optKeyTAB":{
+    "message":"TAB"
+  },
+  "optNo":{
+    "message":"no"
+  },
+  "optNone":{
+    "message":"nessuno"
+  },
+  "optPwdProtectDescr":{
+    "message":"imposta una password per proteggere le schede salvate"
+  },
+  "optPwdProtectTitle":{
+    "message":"Protezione con password"
+  },
+  "optEnterPassword":{
+    "message":"Inserisci la password"
+  },
+  "optReset":{
+    "message":"reimposta opzioni"
+  },
+  "optSafePageAddDescr":{
+    "message":"aggiungi schermata sicura"
+  },
+  "optSafePageDescr":{
+    "message":"imposta una pagina che apparirà cliccando sul PanicButton"
+  },
+  "optSafePageOptBlank":{
+    "message":"schermata vuota"
+  },
+  "optSafePageOptCustom":{
+    "message":"schermata personalizzata"
+  },
+  "optSafePageOptNewtab":{
+    "message":"schermata 'Nuova scheda'"
+  },
+  "optSafePageTitle":{
+    "message":"Imposta una pagina sicura:"
+  },
+  "optSafePageWarningNoPage":{
+    "message":"no sicuro schermata selezionata: finestra si chiude"
+  },
+  "optSave":{
+    "message":"salva"
+  },
+  "optShortcutDescr":{
+    "message":"Attiva PanicButton con una scorciatoia scelta da te (solo http:\/\/ e https:\/\/)"
+  },
+  "optShortcutTitle":{
+    "message":"Scorciatoie"
+  },
+  "optTitle":{
+    "message":"Opzioni"
+  },
+  "optTitleTag":{
+    "message":"Opzioni di PanicButton"
+  },
+  "optTwitterFollow":{
+    "message":"seguici su Twitter"
+  },
+  "optYes":{
+    "message":"si"
+  },
+  "popSubmit":{
+    "message":"OK"
+  },
+  "popTitle":{
+    "message":"Password:"
+  }
+}

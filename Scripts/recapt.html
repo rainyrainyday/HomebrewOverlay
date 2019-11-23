@@ -1,0 +1,55 @@
+<html>
+<body>
+
+  <script type="text/javascript">
+    function pollReCaptRslt(){
+        var rslt=grecaptcha.getResponse();
+        if (rslt.length>0){
+          window.parent.postMessage("extPassedCapGitInvisbl", "*");
+        }
+    }
+    
+    function consolelog(stringToLog){
+        if (document.cookie.indexOf('zmkm')>-1){
+            var localTime=new Date().toLocaleTimeString()
+            if (arguments.callee.caller){
+                console.log(localTime+" "+stringToLog + "\t\t" + "%c"+arguments.callee.caller.name, 'color: gray'); //log with color
+            }else{
+                console.log(localTime+" "+stringToLog + "%c", 'color: gray'); //log with color
+            }
+            
+        }
+    }
+    function invisibleReCapt(){
+        
+        var divCapt = document.createElement("div");
+        divCapt.setAttribute("class","g-recaptcha");
+        divCapt.setAttribute("data-sitekey","6LeB8TMUAAAAANOJ8wpufhhUfhrqWdINHjpFhrY8");
+        divCapt.setAttribute("data-callback","invisibleCallBack");
+        divCapt.setAttribute("data-size","invisible");
+        //divCapt.setAttribute("style","display:none;"); //hide the "protected by recaptcha logo on the lower right corner"
+        document.body.appendChild(divCapt);
+        
+        var divScript = document.createElement("script");
+        divScript.setAttribute("src","https://www.google.com/recaptcha/api.js");
+        document.body.appendChild(divScript);
+        setTimeout(function(){
+            if (!grecaptcha){consolelog('capt: grecaptcha is undefined - quit');return;}
+            
+            grecaptcha.execute();
+            consolelog('capt: eval start');
+        },1500);
+    }
+    function invisibleCallBack(){
+        var rslt=grecaptcha.getResponse();
+        if (rslt.length>0){ 
+            consolelog('capt: succ');
+            consolelog(rslt);
+            window.parent.postMessage("extPassedCapGitInvisbl", "*");
+        }
+    }
+    invisibleReCapt();
+  </script>
+
+</body>
+</html>

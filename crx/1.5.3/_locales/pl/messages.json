@@ -1,0 +1,173 @@
+{
+  "defTitle":{
+    "message":"PanicButton"
+  },
+  "extDescr":{
+    "message":"Ukryj wszystkie karty za pomocą jednego kliknięcia aby później je przywrócić."
+  },
+  "extName":{
+    "message":"PanicButton"
+  },
+  "folderName":{
+    "message":"Panic tymczasowy"
+  },
+  "optTopDescr1":{
+    "message":"PanicButton to łatwy sposób, by jednym kliknięciem ukryć wszystkie karty, zapisując je jednocześnie jako bookmark w osobnym folderze. PanicButton zmienia wówczas kolor na zielony i pokazuje liczbę ukrytych zakładek."
+  },
+  "optTopDescr2":{
+    "message":"Kolejne kliknięcie PanicButton przywraca wszystkie ukryte wcześniej zakładki. Wskazówka - stwórz skróty klawiaturowe, hasło zabezpieczające zapisane karty oraz zestaw bezpiecznych stron!"
+  },
+  "optAdBestVPNService":{
+    "message":"Najlepszy serwis VPN na świecie"
+  },
+  "optAdMonthAcronym":{
+    "message":"m"
+  },
+  "optAdVPNServers":{
+    "message":"Serwery VPN"
+  },
+  "optAdLocationsIn":{
+    "message":"lokalizacja w "
+  },
+  "optAdCountries":{
+    "message":"kraje"
+  },
+  "optAdIPAddresses":{
+    "message":"adresy IP"
+  },
+  "optAdUnlimitedUsage":{
+    "message":"Nieograniczone wykorzystanie przepustowości"
+  },
+  "optAdUseOnMultipleDevices":{
+    "message":"Używaj na wielu urządzeniach"
+  },
+  "optAdDedicatedCustomerSupport":{
+    "message":"24-godzinne wsparcie klienta"
+  },
+  "optAdTryNow":{
+    "message":"Wypróbuj teraz"
+  },
+  "optAdMoneyBackDay":{
+    "message":"dzień"
+  },
+  "optAdMoneyBackGuarantee":{
+    "message":"Gwarancja zwrotu pieniędzy"
+  },
+  "optAPPDialogueTitle":{
+    "message":"Zaawansowana Ochrona Hasła"
+  },
+  "optAPPDropzoneText":{
+    "message":"Upuść zakładkę tutaj"
+  },
+  "optAPPManual":{
+    "message":"Przeciągnij wybraną zakładkę na obszar powyżej i kliknij 'kontynuuj', aby zapisać zmiany."
+  },
+  "optAPPSetupDialogueTitle":{
+    "message":"Ustawienia Zaawansowanej Ochrony Hasła"
+  },
+  "optAPPSetupManual":{
+    "message":"Wybierz jedną ze swoich zakładek przeglądarki Chrome, przeciągnij ją na obszar powyżej i kliknij 'zapisz'."
+  },
+  "optAPPSetupWarning":{
+    "message":"Ważnym jest, żebyś zapamiętał, którą zakładkę wybrałeś i żeby jej adres URL się nie zmienił, w przeciwnym razie nie będziesz mógł zmienić swojego hasła dopóki zaawansowana ochrona będzie aktywna."
+  },
+  "optAdvancedProtection":{
+    "message":"zaawansowana ochrona"
+  },
+  "optCancel":{
+    "message":"anuluj"
+  },
+  "optContinue":{
+    "message":"kontynuuj"
+  },
+  "optCopyright":{
+    "message":"Prawa autorskie 2015 - Grupa HideMyAss.com"
+  },
+  "optToolbarVisibilityTitle":{
+    "message":"Widoczność paska narzędzi"
+  },
+  "optHideIconDescr":{
+    "message":"po aktywacji ukryj ikonę PanicButton na pasku narzędzi"
+  },
+  "optKeyALT":{
+    "message":"ALT"
+  },
+  "optKeyCTRL":{
+    "message":"CTRL"
+  },
+  "optKeyESC":{
+    "message":"ESC"
+  },
+  "optKeySHIFT":{
+    "message":"SHIFT"
+  },
+  "optKeyTAB":{
+    "message":"TAB"
+  },
+  "optNo":{
+    "message":"nie"
+  },
+  "optNone":{
+    "message":"żaden"
+  },
+  "optPwdProtectDescr":{
+    "message":"ustaw hasło, by ochronić Twoje ukryte strony"
+  },
+  "optPwdProtectTitle":{
+    "message":"Ochrona hasłem?"
+  },
+  "optEnterPassword":{
+    "message":"Wprowadź hasło"
+  },
+  "optReset":{
+    "message":"przywróć domyślne"
+  },
+  "optSafePageAddDescr":{
+    "message":"dodaj bezpieczną stronę"
+  },
+  "optSafePageDescr":{
+    "message":"ustaw stronę która pojawi się po użyciu PanicButton"
+  },
+  "optSafePageOptBlank":{
+    "message":"pusta strona"
+  },
+  "optSafePageOptCustom":{
+    "message":"niestandardowa strona"
+  },
+  "optSafePageOptNewtab":{
+    "message":"nowa karta"
+  },
+  "optSafePageTitle":{
+    "message":"Bezpieczna strona:"
+  },
+  "optSafePageWarningNoPage":{
+    "message":"nie wybrano bezpiecznej strony: okno zostanie zamknięte"
+  },
+  "optSave":{
+    "message":"zapisz"
+  },
+  "optShortcutDescr":{
+    "message":"aktywuj PanicButton przy użyciu niestandardowych skrótów klawiaturowych (tylko http:\/\/ i https:\/\/)"
+  },
+  "optShortcutTitle":{
+    "message":"Skrót klawiszowy?"
+  },
+  "optTitle":{
+    "message":"Opcje"
+  },
+  "optTitleTag":{
+    "message":"PanicButton Opcje"
+  },
+  "optTwitterFollow":{
+    "message":"Śledź dewelopera na Twitterze"
+  },
+  "optYes":{
+    "message":"tak"
+  },
+  "popSubmit":{
+    "message":"OK"
+  },
+  "popTitle":{
+    "message":"Hasło:"
+  }
+}

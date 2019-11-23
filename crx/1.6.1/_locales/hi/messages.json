@@ -1,0 +1,173 @@
+{
+  "defTitle":{
+    "message":"PanicButton"
+  },
+  "extDescr":{
+    "message":"आपके सभी टैब छिपाएँ पर एक एकल बटन के साथ एक बार और बाद में उन्हें बहाल."
+  },
+  "extName":{
+    "message":"PanicButton"
+  },
+  "folderName":{
+    "message":"temporary Panic"
+  },
+  "optTopDescr1":{
+    "message":"PanicButton is an easy way to hide all of your tabs at once with a single click. It saves open tabs as bookmarks in a separate folder, after which it turns green and shows you the number of hidden tabs."
+  },
+  "optTopDescr2":{
+    "message":"Another click on the PanicButton restores all of the tabs you have hidden earlier. Tip - create keyboard shortcuts, password protect your saved tabs, and set safe pages!"
+  },
+  "optAdBestVPNService":{
+    "message":"best VPN service in the world"
+  },
+  "optAdMonthAcronym":{
+    "message":"m"
+  },
+  "optAdVPNServers":{
+    "message":"VPN servers"
+  },
+  "optAdLocationsIn":{
+    "message":"locations in"
+  },
+  "optAdCountries":{
+    "message":"countries"
+  },
+  "optAdIPAddresses":{
+    "message":"IP addresses"
+  },
+  "optAdUnlimitedUsage":{
+    "message":"Unlimited bandwidth usage"
+  },
+  "optAdUseOnMultipleDevices":{
+    "message":"Use on multiple devices"
+  },
+  "optAdDedicatedCustomerSupport":{
+    "message":"24\/7 dedicated customer support"
+  },
+  "optAdTryNow":{
+    "message":"Try it now"
+  },
+  "optAdMoneyBackDay":{
+    "message":"day"
+  },
+  "optAdMoneyBackGuarantee":{
+    "message":"Money Back Guaratee"
+  },
+  "optAPPDialogueTitle":{
+    "message":"उन्नत पासवर्ड सुरक्षा"
+  },
+  "optAPPDropzoneText":{
+    "message":"ड्रॉप यहाँ बुकमार्क"
+  },
+  "optAPPManual":{
+    "message":"ऊपर के क्षेत्र में अपने चुने बुकमार्क खींचें और क्लिक करें 'जारी करने के लिए अपने परिवर्तन सहेजें."
+  },
+  "optAPPSetupDialogueTitle":{
+    "message":"उन्नत पासवर्ड सुरक्षा व्यवस्था"
+  },
+  "optAPPSetupManual":{
+    "message":"बस एक अपने Chrome बुकमार्क का चयन, इस क्षेत्र में यह ऊपर खींचें और 'सहेजें' क्लिक करें."
+  },
+  "optAPPSetupWarning":{
+    "message":"यह महत्वपूर्ण है कि आप याद बुकमार्क जो तुम्हें चुना है और इसके URL को बदलने या नहीं अन्यथा आप अपने पासवर्ड को बदल जबकि उन्नत संरक्षण सक्रिय है सक्षम नहीं होगा यह नहीं है कि."
+  },
+  "optAdvancedProtection":{
+    "message":"उन्नत सुरक्षा"
+  },
+  "optCancel":{
+    "message":"रद्द"
+  },
+  "optContinue":{
+    "message":"जारी"
+  },
+  "optCopyright":{
+    "message":"Copyright 2012 - Part of the HideMyAss.com extension family."
+  },
+  "optToolbarVisibilityTitle":{
+    "message":"Toolbar visibility"
+  },
+  "optHideIconDescr":{
+    "message":"सक्रियण के बाद PanicButton उपकरण पट्टी चिह्न छिपाना"
+  },
+  "optKeyALT":{
+    "message":"ALT"
+  },
+  "optKeyCTRL":{
+    "message":"CTRL"
+  },
+  "optKeyESC":{
+    "message":"ESC"
+  },
+  "optKeySHIFT":{
+    "message":"पाली"
+  },
+  "optKeyTAB":{
+    "message":"TAB"
+  },
+  "optNo":{
+    "message":"नहीं"
+  },
+  "optNone":{
+    "message":"कोई नहीं"
+  },
+  "optPwdProtectDescr":{
+    "message":"एक पासवर्ड सेट करने के लिए अपने जमा टैब्स की रक्षा"
+  },
+  "optPwdProtectTitle":{
+    "message":"संरक्षण पासवर्ड?"
+  },
+  "optEnterPassword":{
+    "message":"Enter password"
+  },
+  "optReset":{
+    "message":"रीसेट विकल्प"
+  },
+  "optSafePageAddDescr":{
+    "message":"सुरक्षित पृष्ठ जोड़ना"
+  },
+  "optSafePageDescr":{
+    "message":"PanicButton क्लिक करने के बाद एक पृष्ठ है कि प्रतीत होता है सेट"
+  },
+  "optSafePageOptBlank":{
+    "message":"रिक्त पृष्ठ"
+  },
+  "optSafePageOptCustom":{
+    "message":"कस्टम पृष्ठ"
+  },
+  "optSafePageOptNewtab":{
+    "message":"'नई टैब' पृष्ठ"
+  },
+  "optSafePageTitle":{
+    "message":"एक सुरक्षित पृष्ठ सेट करें:"
+  },
+  "optSafePageWarningNoPage":{
+    "message":"कोई सुरक्षित पृष्ठ चयनित: खिड़की बंद हो जाएगा"
+  },
+  "optSave":{
+    "message":"बचाना"
+  },
+  "optShortcutDescr":{
+    "message":"एक कस्टम कुंजीपटल शॉर्टकट का उपयोग करके सक्रिय PanicButton (केवल http:\/\/ और https:\/\/)"
+  },
+  "optShortcutTitle":{
+    "message":"कुंजीपटल शॉर्टकट?"
+  },
+  "optTitle":{
+    "message":"विकल्प"
+  },
+  "optTitleTag":{
+    "message":"PanicButton विकल्प"
+  },
+  "optTwitterFollow":{
+    "message":"follow developer on twitter"
+  },
+  "optYes":{
+    "message":"हाँ"
+  },
+  "popSubmit":{
+    "message":"OK"
+  },
+  "popTitle":{
+    "message":"पासवर्ड:"
+  }
+}

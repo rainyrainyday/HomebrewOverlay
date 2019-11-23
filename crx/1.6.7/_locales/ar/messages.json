@@ -1,0 +1,173 @@
+{
+  "defTitle":{
+    "message":"مفتاح الخطر"
+  },
+  "extDescr":{
+    "message":"اخفي كافة علامات التبويب في آن واحد و استعادتها لاحقًا بكبسة واحدة."
+  },
+  "extName":{
+    "message":"مفتاح الخطر"
+  },
+  "folderName":{
+    "message":"خطر مؤقت"
+  },
+  "optTopDescr1":{
+    "message":"مفتاح الخطر طريقة سهلة لإخفاء كافة علامات التبويب الخاصة بك في وقت واحد بنقرة واحدة. ثم يحفظ علامات التبويب المفتوحة كإشارات في مجلد منفصل، بعد ذلك يتحول الى اللون الأخضر ويظهر لك عدد علامات التبويب المخفية."
+  },
+  "optTopDescr2":{
+    "message":"نقرة اخرى على مفتاح الخطر تعيد كافة المبوبات التي تم إخفائها سابقاً. نصيحه - انشئ اختصارات على لوحة المفاتيح, احمي مبوباتك المخفية بكلة سر, و استعمل صفحات آمنة!"
+  },
+  "optAdBestVPNService":{
+    "message":"أفضل خدمة VPN في العالم"
+  },
+  "optAdMonthAcronym":{
+    "message":"m"
+  },
+  "optAdVPNServers":{
+    "message":"خوادم VPN"
+  },
+  "optAdLocationsIn":{
+    "message":"مواقع في"
+  },
+  "optAdCountries":{
+    "message":"البلدان"
+  },
+  "optAdIPAddresses":{
+    "message":"عناوين IP"
+  },
+  "optAdUnlimitedUsage":{
+    "message":"استخدام نطاق ترددي غير محدود"
+  },
+  "optAdUseOnMultipleDevices":{
+    "message":"استخدمه على العديد من الأجهزة"
+  },
+  "optAdDedicatedCustomerSupport":{
+    "message":"خدمة الزبائن على مدار الساعة 24\/7"
+  },
+  "optAdTryNow":{
+    "message":"جربة الآن"
+  },
+  "optAdMoneyBackDay":{
+    "message":"يوم"
+  },
+  "optAdMoneyBackGuarantee":{
+    "message":"ضمان استرجاع المال"
+  },
+  "optAPPDialogueTitle":{
+    "message":"الحماية بكلمة مرور متقدمة"
+  },
+  "optAPPDropzoneText":{
+    "message":"إسقاط المرجعية هنا"
+  },
+  "optAPPManual":{
+    "message":"اسحب المرجعية المختارة الخاصة بك إلى منطقة أعلاه وانقر فوق 'متابعة' لحفظ التغييرات الخاصة بك."
+  },
+  "optAPPSetupDialogueTitle":{
+    "message":"الإعداد حماية كلمة السر متقدمة"
+  },
+  "optAPPSetupManual":{
+    "message":"ببساطة اختر أحد مرجعياتك المفضلة ا من كروم واسحبه إلى ناحية أعلاه وانقر 'حفظ'."
+  },
+  "optAPPSetupWarning":{
+    "message":"من المهم ان تتذكر اي مرجعية اخترت و ان عنوان الرابط الخاص بها لا يتغيير و إلا لن تتمكن من تغيير كلة السر عندما يتم تفعيل نظام الحماية المتقدم."
+  },
+  "optAdvancedProtection":{
+    "message":"حماية متقدمة"
+  },
+  "optCancel":{
+    "message":"إلغاء"
+  },
+  "optContinue":{
+    "message":"متابعة"
+  },
+  "optCopyright":{
+    "message":"حقوق الطبع وال2015-جزءا من أسرة ملحق HideMyAss.com."
+  },
+  "optToolbarVisibilityTitle":{
+    "message":"رؤية شريط الأدوات"
+  },
+  "optHideIconDescr":{
+    "message":"إخفاء شريط ادوات زر الذعر بعد التفعيل"
+  },
+  "optKeyALT":{
+    "message":"ALT"
+  },
+  "optKeyCTRL":{
+    "message":"CTRL"
+  },
+  "optKeyESC":{
+    "message":"خروج"
+  },
+  "optKeySHIFT":{
+    "message":"SHIFT"
+  },
+  "optKeyTAB":{
+    "message":"TAB"
+  },
+  "optNo":{
+    "message":"لا"
+  },
+  "optNone":{
+    "message":"لا شيء"
+  },
+  "optPwdProtectDescr":{
+    "message":"تعيين كلمة سر لحماية علامات التبويب المخزنة"
+  },
+  "optPwdProtectTitle":{
+    "message":"حماية بكلة سر"
+  },
+  "optEnterPassword":{
+    "message":"أدخل كلمة المرور"
+  },
+  "optReset":{
+    "message":"إعادة تعيين الخيارات"
+  },
+  "optSafePageAddDescr":{
+    "message":"إضافة صفحة آمنة"
+  },
+  "optSafePageDescr":{
+    "message":"تعيين صفحة لتظهر بعد تفعيل زر الذعر"
+  },
+  "optSafePageOptBlank":{
+    "message":"صفحة فارغة"
+  },
+  "optSafePageOptCustom":{
+    "message":"صفحة مخصصة"
+  },
+  "optSafePageOptNewtab":{
+    "message":"صفحة ' علامة تبويب جديدة '"
+  },
+  "optSafePageTitle":{
+    "message":"تعيين صفحة آمنة"
+  },
+  "optSafePageWarningNoPage":{
+    "message":"لم يتم اختيار صفحة آمنة: سيتم إغلاق النافذة"
+  },
+  "optSave":{
+    "message":"حفظ"
+  },
+  "optShortcutDescr":{
+    "message":"تشغيل زر الذعر باستخدام اختصارات لوحة المفاتيح ( فقط لـ http:\/\/ و لـ https:\/\/)"
+  },
+  "optShortcutTitle":{
+    "message":"اختصار لوحة المفاتيح"
+  },
+  "optTitle":{
+    "message":"خيارات"
+  },
+  "optTitleTag":{
+    "message":"خيارات زر الذعر"
+  },
+  "optTwitterFollow":{
+    "message":"اتبع المطور على تويتر"
+  },
+  "optYes":{
+    "message":"نعم"
+  },
+  "popSubmit":{
+    "message":"موافق"
+  },
+  "popTitle":{
+    "message":"كلمة المرور:"
+  }
+}

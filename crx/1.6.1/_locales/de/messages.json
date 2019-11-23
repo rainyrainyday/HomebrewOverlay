@@ -1,0 +1,173 @@
+{
+  "defTitle":{
+    "message":"PanicButton"
+  },
+  "extDescr":{
+    "message":"Verstecke alle Tabs mit nur einem einzigen Button, um sie zu einem späteren Zeitpunkt wiederherzustellen."
+  },
+  "extName":{
+    "message":"PanicButton"
+  },
+  "folderName":{
+    "message":"temporäre Panik"
+  },
+  "optTopDescr1":{
+    "message":"Der PanicButton ist ein einfacher Weg, alle deine Browser-Tabs gleichzeitig mit einem einzigen Klick zu verstecken. Er speichert offene Browser-Tabs als Lesezeichen in einem separaten Ordner, verfärbt sich dann grün und zeigt dir die Anzahl der versteckten Tabs."
+  },
+  "optTopDescr2":{
+    "message":"Ein weiterer Klick auf den PanicButton stellt alle deine Tabs wieder her, die du zuvor versteckt hast. Tipp: Erstelle Tastaturkürzel, sichere deine gespeicherten Tabs mit Passwörtern und kennzeichne sichere Seiten!"
+  },
+  "optAdBestVPNService":{
+    "message":"Weltweit bester VPN Service"
+  },
+  "optAdMonthAcronym":{
+    "message":"Monat"
+  },
+  "optAdVPNServers":{
+    "message":"VPN Server"
+  },
+  "optAdLocationsIn":{
+    "message":"Standorte in"
+  },
+  "optAdCountries":{
+    "message":"Ländern"
+  },
+  "optAdIPAddresses":{
+    "message":"IP-Adressen"
+  },
+  "optAdUnlimitedUsage":{
+    "message":"Unbegrenztes Bandbreiten-Volumen"
+  },
+  "optAdUseOnMultipleDevices":{
+    "message":"Auf mehreren Geräten nutzen"
+  },
+  "optAdDedicatedCustomerSupport":{
+    "message":"24\/7 engagierter Kunden-Support"
+  },
+  "optAdTryNow":{
+    "message":"Jetzt testen"
+  },
+  "optAdMoneyBackDay":{
+    "message":"Tage"
+  },
+  "optAdMoneyBackGuarantee":{
+    "message":"Geld-zurück-Garantie"
+  },
+  "optAPPDialogueTitle":{
+    "message":"Erweiterter Passwortschutz"
+  },
+  "optAPPDropzoneText":{
+    "message":"Lesezeichen hier hineinziehen"
+  },
+  "optAPPManual":{
+    "message":"Ziehe das ausgewählte Lesezeichen in den Bereich oben und klicke auf 'Fortsetzen', um deine Änderungen zu speichern."
+  },
+  "optAPPSetupDialogueTitle":{
+    "message":"Einrichten des erweiterten Passwortschutzes"
+  },
+  "optAPPSetupManual":{
+    "message":"Wähle einfach eines deiner Chrome-Lesezeichen aus, ziehe es in den Bereich oben und klicke auf 'Speichern'."
+  },
+  "optAPPSetupWarning":{
+    "message":"Es ist wichtig, sich zu merken, welches Lesezeichen man gewählt hat und dass sich dessen URL nicht verändert. Ansonsten ist es nicht mehr möglich, das Passwort zu ändern, solange der erweiterte Schutz aktiviert ist."
+  },
+  "optAdvancedProtection":{
+    "message":"Erweiterter Schutz"
+  },
+  "optCancel":{
+    "message":"Abbrechen"
+  },
+  "optContinue":{
+    "message":"Fortsetzen"
+  },
+  "optCopyright":{
+    "message":"Copyright 2015 - Teil der HideMyAss.com Erweiterungsfamilie."
+  },
+  "optToolbarVisibilityTitle":{
+    "message":"Toolbar-Sichtbarkeit"
+  },
+  "optHideIconDescr":{
+    "message":"PanicButton Symbol nach Aktivierung verstecken"
+  },
+  "optKeyALT":{
+    "message":"ALT"
+  },
+  "optKeyCTRL":{
+    "message":"STRG"
+  },
+  "optKeyESC":{
+    "message":"ESC"
+  },
+  "optKeySHIFT":{
+    "message":"SHIFT"
+  },
+  "optKeyTAB":{
+    "message":"TAB"
+  },
+  "optNo":{
+    "message":"Nein"
+  },
+  "optNone":{
+    "message":"Keine"
+  },
+  "optPwdProtectDescr":{
+    "message":"Ein Passwort zum Schutz der gespeicherten Tabs festlegen"
+  },
+  "optPwdProtectTitle":{
+    "message":"Passwortschutz"
+  },
+  "optEnterPassword":{
+    "message":"Passwort eingeben"
+  },
+  "optReset":{
+    "message":"Zurücksetzen"
+  },
+  "optSafePageAddDescr":{
+    "message":"Sichere Seite hinzufügen"
+  },
+  "optSafePageDescr":{
+    "message":"Lege eine sichere Seite fest, die nach dem Klicken auf den PanicButton erscheint"
+  },
+  "optSafePageOptBlank":{
+    "message":"Leere Seite"
+  },
+  "optSafePageOptCustom":{
+    "message":"Eigene Seite"
+  },
+  "optSafePageOptNewtab":{
+    "message":"'Neuer Tab' Seite"
+  },
+  "optSafePageTitle":{
+    "message":"Sichere Seite festlegen"
+  },
+  "optSafePageWarningNoPage":{
+    "message":"Keine sichere Seite ausgewählt: Fenster wird sich schließen"
+  },
+  "optSave":{
+    "message":"Speichern"
+  },
+  "optShortcutDescr":{
+    "message":"PanicButton mithilfe eines eigenen Tastaturkürzels aktivieren (nur http:\/\/ und https:\/\/)"
+  },
+  "optShortcutTitle":{
+    "message":"Tastaturkürzel"
+  },
+  "optTitle":{
+    "message":"Optionen"
+  },
+  "optTitleTag":{
+    "message":"PanicButton Optionen"
+  },
+  "optTwitterFollow":{
+    "message":"Entwickler auf Twitter folgen"
+  },
+  "optYes":{
+    "message":"Ja"
+  },
+  "popSubmit":{
+    "message":"OK"
+  },
+  "popTitle":{
+    "message":"Passwort:"
+  }
+}

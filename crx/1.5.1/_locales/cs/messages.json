@@ -1,0 +1,173 @@
+{
+  "defTitle":{
+    "message":"PanicButton"
+  },
+  "extDescr":{
+    "message":"Schovejte všechny Vaše záložky najednou jednou klávesou a obnovte je později"
+  },
+  "extName":{
+    "message":"PanicButton"
+  },
+  "folderName":{
+    "message":"temporary Panic"
+  },
+  "optTopDescr1":{
+    "message":"PanicButton is an easy way to hide all of your tabs at once with a single click. It saves open tabs as bookmarks in a separate folder, after which it turns green and shows you the number of hidden tabs."
+  },
+  "optTopDescr2":{
+    "message":"Another click on the PanicButton restores all of the tabs you have hidden earlier. Tip - create keyboard shortcuts, password protect your saved tabs, and set safe pages!"
+  },
+  "optAdBestVPNService":{
+    "message":"best VPN service in the world"
+  },
+  "optAdMonthAcronym":{
+    "message":"m"
+  },
+  "optAdVPNServers":{
+    "message":"VPN servers"
+  },
+  "optAdLocationsIn":{
+    "message":"locations in"
+  },
+  "optAdCountries":{
+    "message":"countries"
+  },
+  "optAdIPAddresses":{
+    "message":"IP addresses"
+  },
+  "optAdUnlimitedUsage":{
+    "message":"Unlimited bandwidth usage"
+  },
+  "optAdUseOnMultipleDevices":{
+    "message":"Use on multiple devices"
+  },
+  "optAdDedicatedCustomerSupport":{
+    "message":"24\/7 dedicated customer support"
+  },
+  "optAdTryNow":{
+    "message":"Try it now"
+  },
+  "optAdMoneyBackDay":{
+    "message":"day"
+  },
+  "optAdMoneyBackGuarantee":{
+    "message":"Money Back Guaratee"
+  },
+  "optAPPDialogueTitle":{
+    "message":"Pokročilé zabezpečení pomocí hesla"
+  },
+  "optAPPDropzoneText":{
+    "message":"drop bookmark here"
+  },
+  "optAPPManual":{
+    "message":"Přetáhněte vybrané položky do oblasti nad a klikněte na tlačítko 'pokračovat' pro uložení změn."
+  },
+  "optAPPSetupDialogueTitle":{
+    "message":"Nastavení rozšířené zabezpečení pomocí hesla"
+  },
+  "optAPPSetupManual":{
+    "message":"Jednoduše si vyberte jednu z vašich Chrome záložek, přesuňte ji do prostoru NAD a klikněte na tlačítko 'Uložit'."
+  },
+  "optAPPSetupWarning":{
+    "message":"Je důležité zapamatovat si, kterou záložku jste vybrali a neměnit její URL, jinak nebudete moci změnit své heslo během aktivované rozšířené ochrany."
+  },
+  "optAdvancedProtection":{
+    "message":"Rozšířená ochrana"
+  },
+  "optCancel":{
+    "message":"zrušit"
+  },
+  "optContinue":{
+    "message":"pokračujte"
+  },
+  "optCopyright":{
+    "message":"Copyright 2012 - Part of the HideMyAss.com extension family."
+  },
+  "optToolbarVisibilityTitle":{
+    "message":"Toolbar visibility"
+  },
+  "optHideIconDescr":{
+    "message":"skrýt ikonu PanicButton na liště po aktivaci"
+  },
+  "optKeyALT":{
+    "message":"ALT"
+  },
+  "optKeyCTRL":{
+    "message":"CTRL"
+  },
+  "optKeyESC":{
+    "message":"ESC"
+  },
+  "optKeySHIFT":{
+    "message":"SHIFT"
+  },
+  "optKeyTAB":{
+    "message":"TAB"
+  },
+  "optNo":{
+    "message":"ne"
+  },
+  "optNone":{
+    "message":"žádné"
+  },
+  "optPwdProtectDescr":{
+    "message":"nastavte heslo na ochranu vašich schovaných záložek"
+  },
+  "optPwdProtectTitle":{
+    "message":"Ochrana heslem?"
+  },
+  "optEnterPassword":{
+    "message":"Enter password"
+  },
+  "optReset":{
+    "message":"resetovat nastavení"
+  },
+  "optSafePageAddDescr":{
+    "message":"přidat bezpečnou stránku"
+  },
+  "optSafePageDescr":{
+    "message":"nastavte stránku, která se zobrazí po klepnutí na tlačítko PanicButton"
+  },
+  "optSafePageOptBlank":{
+    "message":"prázdná stránka"
+  },
+  "optSafePageOptCustom":{
+    "message":"určitá stránka"
+  },
+  "optSafePageOptNewtab":{
+    "message":"stránka 'Nová karta'"
+  },
+  "optSafePageTitle":{
+    "message":"Nastavte bezpečnou stránku:"
+  },
+  "optSafePageWarningNoPage":{
+    "message":"není žádná bezpečná stránka: okno se zavře"
+  },
+  "optSave":{
+    "message":"uložit"
+  },
+  "optShortcutDescr":{
+    "message":"aktivovat PanicButton vlastní klávesovou zkratkou (pouze pro http:\/\/ a https:\/\/)"
+  },
+  "optShortcutTitle":{
+    "message":"Klávesová zkratka?"
+  },
+  "optTitle":{
+    "message":"Nastavení"
+  },
+  "optTitleTag":{
+    "message":"Nastavení PanicButton"
+  },
+  "optTwitterFollow":{
+    "message":"follow developer on twitter"
+  },
+  "optYes":{
+    "message":"ano"
+  },
+  "popSubmit":{
+    "message":"OK"
+  },
+  "popTitle":{
+    "message":"Heslo:"
+  }
+}

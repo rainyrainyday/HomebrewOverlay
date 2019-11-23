@@ -1,0 +1,11 @@
+{
+  "extName":{
+    "message":"Cari dalam kamus Oxford"
+  },
+  "contextMenu":{
+    "message":"Cari dalam kamus Oxford"
+  },
+  "description":{
+    "message":"Pilih teks halaman web, klik kanan untuk mencari kamus Oxford."
+  }
+}

@@ -1,0 +1,82 @@
+body {
+  overflow: hidden;
+  background-color: transparent !important;
+  color: red;
+}
+div[class=gp-footer] {
+  display: none;
+}
+.result-dict-wrapper {
+  box-shadow: none;
+}
+.dictionary {
+  border-bottom-width: 0;
+}
+.gb_bd,
+.gb_cd {
+  display: none;
+}
+.gt-lc-mobile {
+  box-shadow: none !important;
+}
+.share-panel {
+  display: none;
+}
+.itanywhere-link {
+  display: flex;
+  font-size: 12px;
+  justify-content: flex-end;
+  padding: 5px;
+}
+.itanywhere-link>* {
+  padding-left: 5px;
+}
+.itanywhere-link a {
+  text-decoration: none;
+}
+.itanywhere-link a:link ,
+.itanywhere-link a:visited,
+.itanywhere-link a:hover,
+.itanywhere-link a:active {
+  color: #000;
+}
+
+
+.home-top-creative-cont{
+    display: none;
+}
+.definitions-center-creative-cont{
+    display: none;
+}
+.definitions-center-creative-cont2{
+    display: none;
+}
+.wgt-def-trend-watch{
+    display: none;
+}
+.wgt-incentive-anchors{
+    display: none;
+}
+.social-sidebar{
+    display: none;
+}
+.wgt-related-to{
+    display: none;
+}
+
+
+.sidebar{
+    display: none;
+}
+.violbox{
+    display: none;
+}
+.footerWrap{
+    display: none;
+}
+.comments{
+    display: none;
+}
+.banbox{
+    display: none;
+}

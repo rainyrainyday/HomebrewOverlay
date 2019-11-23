@@ -1,0 +1,173 @@
+{
+  "defTitle":{
+    "message":"PanicButton"
+  },
+  "extDescr":{
+    "message":"Sembunyikan semua tab Anda dengan satu tombol saja dan kembalikan tab Anda nanti."
+  },
+  "extName":{
+    "message":"PanicButton"
+  },
+  "folderName":{
+    "message":"temporary Panic"
+  },
+  "optTopDescr1":{
+    "message":"PanicButton is an easy way to hide all of your tabs at once with a single click. It saves open tabs as bookmarks in a separate folder, after which it turns green and shows you the number of hidden tabs."
+  },
+  "optTopDescr2":{
+    "message":"Another click on the PanicButton restores all of the tabs you have hidden earlier. Tip - create keyboard shortcuts, password protect your saved tabs, and set safe pages!"
+  },
+  "optAdBestVPNService":{
+    "message":"best VPN service in the world"
+  },
+  "optAdMonthAcronym":{
+    "message":"m"
+  },
+  "optAdVPNServers":{
+    "message":"VPN servers"
+  },
+  "optAdLocationsIn":{
+    "message":"locations in"
+  },
+  "optAdCountries":{
+    "message":"countries"
+  },
+  "optAdIPAddresses":{
+    "message":"IP addresses"
+  },
+  "optAdUnlimitedUsage":{
+    "message":"Unlimited bandwidth usage"
+  },
+  "optAdUseOnMultipleDevices":{
+    "message":"Use on multiple devices"
+  },
+  "optAdDedicatedCustomerSupport":{
+    "message":"24\/7 dedicated customer support"
+  },
+  "optAdTryNow":{
+    "message":"Try it now"
+  },
+  "optAdMoneyBackDay":{
+    "message":"day"
+  },
+  "optAdMoneyBackGuarantee":{
+    "message":"Money Back Guaratee"
+  },
+  "optAPPDialogueTitle":{
+    "message":"Advanced Password Protection"
+  },
+  "optAPPDropzoneText":{
+    "message":"drop bookmark here"
+  },
+  "optAPPManual":{
+    "message":"Drag your chosen bookmark into the area above and click 'continue' to save your changes."
+  },
+  "optAPPSetupDialogueTitle":{
+    "message":"Advanced Password Protection Setup"
+  },
+  "optAPPSetupManual":{
+    "message":"Simply choose one of your Chrome bookmarks, drag it into the area above and click 'save'."
+  },
+  "optAPPSetupWarning":{
+    "message":"It is important that you remember which bookmark you chose and that its URL does not change or otherwise you will not be able to change your password while advanced protection is activated."
+  },
+  "optAdvancedProtection":{
+    "message":"advanced protection"
+  },
+  "optCancel":{
+    "message":"cancel"
+  },
+  "optContinue":{
+    "message":"continue"
+  },
+  "optCopyright":{
+    "message":"Copyright 2012 - Part of the HideMyAss.com extension family."
+  },
+  "optToolbarVisibilityTitle":{
+    "message":"Toolbar visibility"
+  },
+  "optHideIconDescr":{
+    "message":"sembunyikan ikon PanicButton dari toolbar setelah aktivasi"
+  },
+  "optKeyALT":{
+    "message":"ALT"
+  },
+  "optKeyCTRL":{
+    "message":"CTRL"
+  },
+  "optKeyESC":{
+    "message":"ESC"
+  },
+  "optKeySHIFT":{
+    "message":"SHIFT"
+  },
+  "optKeyTAB":{
+    "message":"TAB"
+  },
+  "optNo":{
+    "message":"tidak"
+  },
+  "optNone":{
+    "message":"tidak ada"
+  },
+  "optPwdProtectDescr":{
+    "message":"terapkan sebuah password untuk melindungi tab Anda yang tersimpan."
+  },
+  "optPwdProtectTitle":{
+    "message":"Pengamanan password?"
+  },
+  "optEnterPassword":{
+    "message":"Enter password"
+  },
+  "optReset":{
+    "message":"reset pengaturan"
+  },
+  "optSafePageAddDescr":{
+    "message":"tambahkan halaman aman"
+  },
+  "optSafePageDescr":{
+    "message":"terapkan laman yang muncul setelah mengklik tombol PanicButton"
+  },
+  "optSafePageOptBlank":{
+    "message":"halaman kosong"
+  },
+  "optSafePageOptCustom":{
+    "message":"halaman khusus"
+  },
+  "optSafePageOptNewtab":{
+    "message":"halaman 'Tab Baru'"
+  },
+  "optSafePageTitle":{
+    "message":"Terapkan sebuah laman aman"
+  },
+  "optSafePageWarningNoPage":{
+    "message":"tidak ada halaman aman yang terpilih. jendela akan ditutup"
+  },
+  "optSave":{
+    "message":"simpan"
+  },
+  "optShortcutDescr":{
+    "message":"aktifkan PanicButton menggunakan kombinasi keyboard khusus (hanya http:\/\/ dan https:\/\/)"
+  },
+  "optShortcutTitle":{
+    "message":"Shortcut dengan keyboard?"
+  },
+  "optTitle":{
+    "message":"Pengaturan"
+  },
+  "optTitleTag":{
+    "message":"Pengaturan PanicButton"
+  },
+  "optTwitterFollow":{
+    "message":"follow developer on twitter"
+  },
+  "optYes":{
+    "message":"ya"
+  },
+  "popSubmit":{
+    "message":"OK"
+  },
+  "popTitle":{
+    "message":"Password:"
+  }
+}

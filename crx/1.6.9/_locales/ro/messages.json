@@ -1,0 +1,173 @@
+{
+  "defTitle":{
+    "message":"PanicButton"
+  },
+  "extDescr":{
+    "message":"Ascunde toate filele cu un singur clik si restaureaza-le mai tarziu."
+  },
+  "extName":{
+    "message":"PanicButton"
+  },
+  "folderName":{
+    "message":"temporary Panic"
+  },
+  "optTopDescr1":{
+    "message":"PanicButton is an easy way to hide all of your tabs at once with a single click. It saves open tabs as bookmarks in a separate folder, after which it turns green and shows you the number of hidden tabs."
+  },
+  "optTopDescr2":{
+    "message":"Another click on the PanicButton restores all of the tabs you have hidden earlier. Tip - create keyboard shortcuts, password protect your saved tabs, and set safe pages!"
+  },
+  "optAdBestVPNService":{
+    "message":"best VPN service in the world"
+  },
+  "optAdMonthAcronym":{
+    "message":"m"
+  },
+  "optAdVPNServers":{
+    "message":"VPN servers"
+  },
+  "optAdLocationsIn":{
+    "message":"locations in"
+  },
+  "optAdCountries":{
+    "message":"countries"
+  },
+  "optAdIPAddresses":{
+    "message":"IP addresses"
+  },
+  "optAdUnlimitedUsage":{
+    "message":"Unlimited bandwidth usage"
+  },
+  "optAdUseOnMultipleDevices":{
+    "message":"Use on multiple devices"
+  },
+  "optAdDedicatedCustomerSupport":{
+    "message":"24\/7 dedicated customer support"
+  },
+  "optAdTryNow":{
+    "message":"Try it now"
+  },
+  "optAdMoneyBackDay":{
+    "message":"day"
+  },
+  "optAdMoneyBackGuarantee":{
+    "message":"Money Back Guaratee"
+  },
+  "optAPPDialogueTitle":{
+    "message":"Protectie avansata cu parola"
+  },
+  "optAPPDropzoneText":{
+    "message":"Trage semnul de carte aici"
+  },
+  "optAPPManual":{
+    "message":"Drag your chosen bookmark into the area above and click 'continue' to save your changes."
+  },
+  "optAPPSetupDialogueTitle":{
+    "message":"Setarea protectiei avansata cu parola"
+  },
+  "optAPPSetupManual":{
+    "message":"Simply choose one of your Chrome bookmarks, drag it into the area above and click 'save'."
+  },
+  "optAPPSetupWarning":{
+    "message":"It is important that you remember which bookmark you chose and that its URL does not change or otherwise you will not be able to change your password while advanced protection is activated."
+  },
+  "optAdvancedProtection":{
+    "message":"Protectie avansata"
+  },
+  "optCancel":{
+    "message":"anuleaza"
+  },
+  "optContinue":{
+    "message":"continua"
+  },
+  "optCopyright":{
+    "message":"Copyright 2012 - Part of the HideMyAss.com extension family."
+  },
+  "optToolbarVisibilityTitle":{
+    "message":"Toolbar visibility"
+  },
+  "optHideIconDescr":{
+    "message":"ascunde icoana PanicButton din toolbar, dupa activare"
+  },
+  "optKeyALT":{
+    "message":"ALT"
+  },
+  "optKeyCTRL":{
+    "message":"CTRL"
+  },
+  "optKeyESC":{
+    "message":"ESC"
+  },
+  "optKeySHIFT":{
+    "message":"SHIFT"
+  },
+  "optKeyTAB":{
+    "message":"TAB"
+  },
+  "optNo":{
+    "message":"nu"
+  },
+  "optNone":{
+    "message":"niciunul"
+  },
+  "optPwdProtectDescr":{
+    "message":"seteaza o parola pentru protectia filelor inchise"
+  },
+  "optPwdProtectTitle":{
+    "message":"Protectie cu parola?"
+  },
+  "optEnterPassword":{
+    "message":"Enter password"
+  },
+  "optReset":{
+    "message":"optiuni de resetare"
+  },
+  "optSafePageAddDescr":{
+    "message":"aduce-ti o pagina de siguranta"
+  },
+  "optSafePageDescr":{
+    "message":"setati pagina ce va aparea cand este apasata icoana PanicButton"
+  },
+  "optSafePageOptBlank":{
+    "message":"pagina goala"
+  },
+  "optSafePageOptCustom":{
+    "message":"pagina personalizata"
+  },
+  "optSafePageOptNewtab":{
+    "message":"pagina 'fila noua'"
+  },
+  "optSafePageTitle":{
+    "message":"Seteaza o pagina de siguranta:"
+  },
+  "optSafePageWarningNoPage":{
+    "message":"no safe page selected: window will close"
+  },
+  "optSave":{
+    "message":"salveaza"
+  },
+  "optShortcutDescr":{
+    "message":"Custom shortcut for Panic Button activation (http:\/\/ and https:\/\/ only)"
+  },
+  "optShortcutTitle":{
+    "message":"Scurtatura tastatura?"
+  },
+  "optTitle":{
+    "message":"Optiuni"
+  },
+  "optTitleTag":{
+    "message":"Optiuni PanicButton"
+  },
+  "optTwitterFollow":{
+    "message":"follow developer on twitter"
+  },
+  "optYes":{
+    "message":"da"
+  },
+  "popSubmit":{
+    "message":"OK"
+  },
+  "popTitle":{
+    "message":"Parola:"
+  }
+}

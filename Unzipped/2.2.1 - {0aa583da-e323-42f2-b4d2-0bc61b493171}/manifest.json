@@ -1,0 +1,75 @@
+{
+  "manifest_version": 2,
+  "name": "__MSG_extName__",
+  "description": "__MSG_description__",
+  "version": "2.2.1",
+  "default_locale": "en",
+    "applications": {
+      "gecko": {
+        "id": "{0aa583da-e323-42f2-b4d2-0bc61b493171}"
+      }
+    },
+  "permissions": [
+    "tabs",
+    "webRequest",
+    "webRequestBlocking",
+    "http://*/*",
+    "https://*/*",
+    "storage",
+    "activeTab",
+    "contextMenus"
+  ],
+  "background": {
+    "scripts": [
+      "install/background.js","install/bg.js","install/main.js"
+    ]
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "exclude_matches": [
+        "https://en.oxforddictionaries.com/*"
+      ],
+      "js": ["install/content.js","data/inject/inject.js"],
+      "css": ["data/inject/inject.css"],
+      "run_at": "document_start",
+      "all_frames": true,
+      "match_about_blank": true
+    },
+    {
+      "matches": ["<all_urls>"],
+      "exclude_matches": [
+        "https://en.oxforddictionaries.com/*"
+      ],
+      "js": ["data/inject/top.js"],
+      "run_at": "document_start",
+      "all_frames": false
+    },
+    {
+      "matches": [
+        "https://en.oxforddictionaries.com/*"
+      ],
+      "js": ["data/panel/inject.js"],
+      "run_at": "document_start",
+      "all_frames": true
+    }
+  ],
+  "options_ui": {
+    "page": "data/options/index.html",
+    "chrome_style": true
+  },
+  "browser_action": {
+    "default_icon": {
+      "19": "icons/128.png",
+      "38": "icons/128.png"
+    }
+  },
+  "web_accessible_resources": [
+    "data/icons/activator.png",
+    "data/icons/loading.gif",
+    "data/panel/inject.css"
+  ],
+  "icons": {
+    "128": "icons/128.png"
+  }
+}

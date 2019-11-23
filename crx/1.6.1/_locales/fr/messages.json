@@ -1,0 +1,173 @@
+{
+  "defTitle":{
+    "message":"PanicButton"
+  },
+  "extDescr":{
+    "message":"Cachez tous vos onglets en même temps avec un seul bouton et récupérez les plus tard."
+  },
+  "extName":{
+    "message":"PanicButton"
+  },
+  "folderName":{
+    "message":"Panique temporaire"
+  },
+  "optTopDescr1":{
+    "message":"PanicButton est un moyen facile de se cacher tous vos onglets en même temps en un seul clic. Elle enregistre des onglets ouverts sous forme de signets dans un dossier séparé, après quoi il vire au vert et vous montre le nombre d'onglets cachés."
+  },
+  "optTopDescr2":{
+    "message":"Un deuxième clic sur le PanicButton restaure tous les onglets, que vous avez caché auparavant. Astuce - créez des raccourcis clavier, protégez avec un mot de passe vos onglets enregistrés et créez des pages sécurisées!"
+  },
+  "optAdBestVPNService":{
+    "message":"le meilleur service VPN du monde"
+  },
+  "optAdMonthAcronym":{
+    "message":"m"
+  },
+  "optAdVPNServers":{
+    "message":"les serveurs VPN"
+  },
+  "optAdLocationsIn":{
+    "message":"les localisations dans"
+  },
+  "optAdCountries":{
+    "message":"pays"
+  },
+  "optAdIPAddresses":{
+    "message":"les adresses IP"
+  },
+  "optAdUnlimitedUsage":{
+    "message":"Bande passante illimitée"
+  },
+  "optAdUseOnMultipleDevices":{
+    "message":"Utilisation sur plusieurs appareils"
+  },
+  "optAdDedicatedCustomerSupport":{
+    "message":"Service Client 24 sur 24"
+  },
+  "optAdTryNow":{
+    "message":"Testez-le maintenant"
+  },
+  "optAdMoneyBackDay":{
+    "message":"jours"
+  },
+  "optAdMoneyBackGuarantee":{
+    "message":"Garantie de remboursement"
+  },
+  "optAPPDialogueTitle":{
+    "message":"Protection de Mot de Passe Avancée"
+  },
+  "optAPPDropzoneText":{
+    "message":"lâcher marque-page ici"
+  },
+  "optAPPManual":{
+    "message":"Lâchez votre marque-page choisi dans l'espace ci-dessus et cliquez sur « continuer » afin de sauvegarder vos changements."
+  },
+  "optAPPSetupDialogueTitle":{
+    "message":"Configuration de la Protection de Mot de Passe Avancée"
+  },
+  "optAPPSetupManual":{
+    "message":"Choisissez simplement un de vos marque-pages, lâchez le dans l'espace ci-dessus et cliquez sur « sauvegarder »."
+  },
+  "optAPPSetupWarning":{
+    "message":"Il est important de bien garder le marque-page choisi bien en mémoire et que son URL ne change pas, le cas échéant, vous ne pourrez changer votre mot de passe pendant que la protection avancée est active."
+  },
+  "optAdvancedProtection":{
+    "message":"protection avancée"
+  },
+  "optCancel":{
+    "message":"annuler"
+  },
+  "optContinue":{
+    "message":"continuer"
+  },
+  "optCopyright":{
+    "message":"Copyright 2015 - partie de la famille d'extension HideMyAss.com."
+  },
+  "optToolbarVisibilityTitle":{
+    "message":"Visibilité de la barre d'outils"
+  },
+  "optHideIconDescr":{
+    "message":"cacher l'icône de la barre d'outils après l'activation"
+  },
+  "optKeyALT":{
+    "message":"ALT"
+  },
+  "optKeyCTRL":{
+    "message":"CTRL"
+  },
+  "optKeyESC":{
+    "message":"ECHAP"
+  },
+  "optKeySHIFT":{
+    "message":"SHIFT"
+  },
+  "optKeyTAB":{
+    "message":"Tab"
+  },
+  "optNo":{
+    "message":"non"
+  },
+  "optNone":{
+    "message":"rien"
+  },
+  "optPwdProtectDescr":{
+    "message":"entrez un mot de passe pour proteger vos onglets stockés"
+  },
+  "optPwdProtectTitle":{
+    "message":"Protection avec un mot de passe?"
+  },
+  "optEnterPassword":{
+    "message":"Entrez le mot de passe"
+  },
+  "optReset":{
+    "message":"réinitialiser les options"
+  },
+  "optSafePageAddDescr":{
+    "message":"ajouter page sécurisée"
+  },
+  "optSafePageDescr":{
+    "message":"entrez un page qui apparaitra après avoir cliqué sur le PanicButton"
+  },
+  "optSafePageOptBlank":{
+    "message":"Page Blanche"
+  },
+  "optSafePageOptCustom":{
+    "message":"Page de votre choix"
+  },
+  "optSafePageOptNewtab":{
+    "message":"Page 'Nouvel Onglet'"
+  },
+  "optSafePageTitle":{
+    "message":"Entrez un page sure:"
+  },
+  "optSafePageWarningNoPage":{
+    "message":"aucune page sécurisée choisie: la fenêtre va se fermer"
+  },
+  "optSave":{
+    "message":"enregistrer"
+  },
+  "optShortcutDescr":{
+    "message":"activer PanicButton en utilisant un raccourci clavier de votre choix (seulement http:\/\/ ou https:\/\/)"
+  },
+  "optShortcutTitle":{
+    "message":"Raccourci clavier?"
+  },
+  "optTitle":{
+    "message":"Options"
+  },
+  "optTitleTag":{
+    "message":"Options de PanicButton"
+  },
+  "optTwitterFollow":{
+    "message":"suivez le développeur sur twitter"
+  },
+  "optYes":{
+    "message":"oui"
+  },
+  "popSubmit":{
+    "message":"Ok"
+  },
+  "popTitle":{
+    "message":"Mot de passe:"
+  }
+}

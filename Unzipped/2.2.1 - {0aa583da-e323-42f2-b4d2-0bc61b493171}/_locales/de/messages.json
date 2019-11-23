@@ -1,0 +1,11 @@
+{
+  "extName":{
+    "message":"Suche im Oxford Wörterbuch"
+  },
+  "contextMenu":{
+    "message":"Suche im Oxford Wörterbuch"
+  },
+  "description":{
+    "message":"Wählen Sie Text und klicken Sie mit der rechten Maustaste, um es in Oxford Dictionary nachzuschlagen."
+  }
+}

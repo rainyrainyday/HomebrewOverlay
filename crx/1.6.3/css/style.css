@@ -1,0 +1,29 @@
+* {
+	font-family:	Arial, Helvetica, sans-serif;
+}
+
+button {
+	padding:						6px 10px;
+	-webkit-border-radius:	2px 2px;
+	border:							solid 1px rgb(153, 153, 153);
+	background:					-webkit-gradient(linear, 0% 0%, 0% 100%, from(rgb(255, 255, 255)), to(rgb(221, 221, 221)));
+	color:							#333;
+	text-decoration:			none;
+	cursor:							pointer;
+	display:							inline-block;
+	text-align:						center;
+	text-shadow:				0px 1px 1px rgba(255,255,255,1);
+	line-height:					0.5;
+}
+
+button:hover {
+	background:					-webkit-gradient(linear, 0% 0%, 0% 100%, from(rgb(240, 240, 240)), to(rgb(206, 206, 206)));
+}
+
+.simpleButton {
+	text-align:		center;
+	font-weight:	bold;
+	width:			30px;
+	height:			22px;
+	vertical-align:	top;
+}

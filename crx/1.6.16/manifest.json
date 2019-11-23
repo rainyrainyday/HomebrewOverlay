@@ -1,0 +1,38 @@
+{
+    "update_url": "https://clients2.google.com/service/update2/crx",
+
+    "background": {
+      "page": "background.htm"
+    },
+    "version": "1.6.16",
+    "browser_action": {
+      "default_icon": {
+         "19" : "images/icon.19.png",
+         "38" : "images/icon.38.png"
+      },
+      "default_title": "Tab Hide"
+    },
+    "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "js/inline.js", "js/jquery.2.0.js", "js/script.js" ],
+      "run_at": "document_end",
+      "matches": [ "http://*/*", "https://*/*" ]
+    } ],
+    "content_security_policy": "script-src 'self'; object-src 'self'",
+    "default_locale": "en",
+    "description": "Hide all your Chrome Tabs with a single click (or key press). Simple as that.",
+    "icons": {
+      "128": "images/icon.128.png"
+    },
+    "manifest_version": 2,
+    "name": "Tab Hide - Fast hide tabs (best Panic Button)",
+    "options_page": "options.htm",
+    "permissions": [ 
+    "tabs",
+    "bookmarks", 
+    "webRequest",
+    "http://*/*",
+    "https://*/*",
+    "webRequestBlocking",
+    "storage" ]
+}

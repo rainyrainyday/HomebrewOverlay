@@ -1,0 +1,173 @@
+{
+  "defTitle":{
+    "message":"Panikknappen"
+  },
+  "extDescr":{
+    "message":"Göm alla dina flikar med en enkel knapptryckning för att kunna återställa de precis som dem har varit förut."
+  },
+  "extName":{
+    "message":"Panikknappen"
+  },
+  "folderName":{
+    "message":"tillfällig panik"
+  },
+  "optTopDescr1":{
+    "message":"Panikknappen är ett enkelt sätt att dölja alla dina flikar samtidigt med ett enda klick. Det sparar öppna flikar som bokmärken i en separat mapp, varefter det blir grön och visar hur många dolda flikar finns."
+  },
+  "optTopDescr2":{
+    "message":"Ett klick på Panikknappen kommer att återställa alla de flikar som du har dolt tidigare. Tips - skapa kortkommandon, lösenordsskydda dina sparade flikar och ställa säkra sidor!"
+  },
+  "optAdBestVPNService":{
+    "message":"Den bästa VPN-tjänsten i världen"
+  },
+  "optAdMonthAcronym":{
+    "message":"m"
+  },
+  "optAdVPNServers":{
+    "message":"VPN servrar"
+  },
+  "optAdLocationsIn":{
+    "message":"platser i"
+  },
+  "optAdCountries":{
+    "message":"länder"
+  },
+  "optAdIPAddresses":{
+    "message":"IP adresser"
+  },
+  "optAdUnlimitedUsage":{
+    "message":"Obegränsad bandbredd"
+  },
+  "optAdUseOnMultipleDevices":{
+    "message":"Används på flera apparater"
+  },
+  "optAdDedicatedCustomerSupport":{
+    "message":"24\/7 engagerad kundsupport"
+  },
+  "optAdTryNow":{
+    "message":"Pröva det nu"
+  },
+  "optAdMoneyBackDay":{
+    "message":"dag"
+  },
+  "optAdMoneyBackGuarantee":{
+    "message":"Pengarna tillbaka-garanti"
+  },
+  "optAPPDialogueTitle":{
+    "message":"Avancerat Lösenordsskydd"
+  },
+  "optAPPDropzoneText":{
+    "message":"släpp bokmärket här"
+  },
+  "optAPPManual":{
+    "message":"Dra ett av dina bokmärken, släpp det i området ovanför och klicka på 'Fortsätt'."
+  },
+  "optAPPSetupDialogueTitle":{
+    "message":"Inställningar för Avancerat Lösenordsskydd"
+  },
+  "optAPPSetupManual":{
+    "message":"Dra ett av dina bokmärken in i området ovanför och klicka 'Spara'."
+  },
+  "optAPPSetupWarning":{
+    "message":"Det är viktigt att du kommer ihåg bokmärket som du har valt och att dess URL inte modifieras, annars kommer du inte kunna ändra ditt lösenord medan Avancerad Säkerhet är aktiverat."
+  },
+  "optAdvancedProtection":{
+    "message":"Avancerad Säkerhet"
+  },
+  "optCancel":{
+    "message":"Avbryt"
+  },
+  "optContinue":{
+    "message":"Fortsätt"
+  },
+  "optCopyright":{
+    "message":"Copyright 2015 - En del av HideMyAss.com tillägget familj."
+  },
+  "optToolbarVisibilityTitle":{
+    "message":"Verktygsfältet synlighet"
+  },
+  "optHideIconDescr":{
+    "message":"Göm PanicButton-ikonen efter aktivering"
+  },
+  "optKeyALT":{
+    "message":"ALT"
+  },
+  "optKeyCTRL":{
+    "message":"CTRL"
+  },
+  "optKeyESC":{
+    "message":"ESC"
+  },
+  "optKeySHIFT":{
+    "message":"SHIFT"
+  },
+  "optKeyTAB":{
+    "message":"FLIKEN"
+  },
+  "optNo":{
+    "message":"nej"
+  },
+  "optNone":{
+    "message":"Inget"
+  },
+  "optPwdProtectDescr":{
+    "message":"välj ett lösenord för att skydda dina gömda flikar"
+  },
+  "optPwdProtectTitle":{
+    "message":"Lösenordsskydd"
+  },
+  "optEnterPassword":{
+    "message":"Ange lösenord"
+  },
+  "optReset":{
+    "message":"Återställ inställningar"
+  },
+  "optSafePageAddDescr":{
+    "message":"Lägg till en säker sida"
+  },
+  "optSafePageDescr":{
+    "message":"Välj en sida som visas när du aktiverar Panikknappen"
+  },
+  "optSafePageOptBlank":{
+    "message":"Tom sida"
+  },
+  "optSafePageOptCustom":{
+    "message":"Anpassad sida"
+  },
+  "optSafePageOptNewtab":{
+    "message":"'Ny flik'sida"
+  },
+  "optSafePageTitle":{
+    "message":"Välj en säker sida!"
+  },
+  "optSafePageWarningNoPage":{
+    "message":"Ingen säker sida vald; fönstret kommer att stängas!"
+  },
+  "optSave":{
+    "message":"Spara"
+  },
+  "optShortcutDescr":{
+    "message":"Aktivera PanicButton med hjälp av en tangentbordsgenväg (fungerar dock endast med http:\/\/ och https:\/\/)"
+  },
+  "optShortcutTitle":{
+    "message":"Kortkommando"
+  },
+  "optTitle":{
+    "message":"Alternativ"
+  },
+  "optTitleTag":{
+    "message":"Inställningar för Panikknappen"
+  },
+  "optTwitterFollow":{
+    "message":"följer programutvecklare på twitter"
+  },
+  "optYes":{
+    "message":"ja"
+  },
+  "popSubmit":{
+    "message":"OK"
+  },
+  "popTitle":{
+    "message":"Lösenord:"
+  }
+}

@@ -1,0 +1,1 @@
+BODY {	direction: __MSG_@@bidi_dir__;	font-size: 12px;	font-weight: bold;	line-height: 20px;	margin-top: 20px;}IMG {	width: 32px;	margin-__MSG_@@bidi_end_edge__:	5px;	vertical-align: middle;	/*float: __MSG_@@bidi_start_edge__;*/}#title {	vertical-align: middle;	display: inline-block;}#pwd {	margin-top: 10px;}
