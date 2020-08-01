@@ -12,6 +12,8 @@ If you choose to use the code contained in this repository, understand that you 
 
 This is an analysis of the adware/malware contained within the Firefox extension [**Oxford Dictionary**](https://addons.mozilla.org/en-US/firefox/addon/oxford-dictionary/) (Extension ID: `{0aa583da-e323-42f2-b4d2-0bc61b493171}`) by a user named "Oxford Dictionary" (Registered 20190108, 1 extension published).
 
+_Extension is now blocked as per [Bug 1618814](https://bugzilla.mozilla.org/show_bug.cgi?id=1618814) on Bugzilla._
+
 This analysis covers versions:
 
 - **2.2**   - 234.78 KB - Released 20190309
